@@ -1,0 +1,14 @@
+Para saber si una entidad está ya dentro de la base de datos, se podría tener almacenada las distintas entidades por separado y, además, cada contexto en el que aparece para saber que realmente se está refiriendo a eso. Por ejemplo:
+
+	Victoria [Nombre] {
+		"Nosequien se bañó en el río Victoria",
+		"El río Victoria desemboca en el mar Derrota"
+	}
+
+- Es distinto a -
+
+	Victoria [Nombre] {
+		"La princesa Victoria coronó al caballero Víctor"
+	}
+
+Así se consultaría tanto por tipo de NER como de contexto.
