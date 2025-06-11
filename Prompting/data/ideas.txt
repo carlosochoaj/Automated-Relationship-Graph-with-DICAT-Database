@@ -12,3 +12,7 @@ Para saber si una entidad está ya dentro de la base de datos, se podría tener 
 	}
 
 Así se consultaría tanto por tipo de NER como de contexto.
+
+
+
+Crear un archivo que guarde las personas y un pequeño resumen de quién es cada una.
