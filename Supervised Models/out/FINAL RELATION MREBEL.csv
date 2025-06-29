@@ -1,0 +1,267 @@
+year,head,tail,relation
+Introducción,Cosme Pérez,7 de abril de 1593,date of birth
+Introducción,Cosme Pérez,7 de abril de 1593,date of birth
+Introducción,Damián Pérez,Cosme Pérez,child
+Introducción,Isabel de Basto,Cosme Pérez,child
+Introducción,Cosme Pérez,Bernarda Ramírez,spouse
+Introducción,Bernarda Ramírez,Cosme Pérez,spouse
+Introducción,Bernarda Ramírez,Cosme Pérez,significant person
+Introducción,Cosme Pérez,Bernarda Ramírez,significant person 
+Introducción,Bernarda Manuela,Cosme Pérez,significant person
+Introducción,Cosme Pérez,Bernarda Ramírez,significant person 
+Introducción,Cosme Pérez,María de Acosta,spouse
+Introducción,María de Acosta,Cosme Pérez,spouse
+Introducción,Cosme Pérez,María de Acosta,spouse
+Introducción,Domingo Canejil,Genealogía,described by source
+Introducción,Domingo Canejil,Genealogía,described by source
+Introducción,Cosme Pérez,Bárbara Coronel,spouse 
+Introducción,Bárbara Coronel,Cosme Pérez,spouse 
+Introducción,Cosme Pérez,Bárbara Coronel,spouse 
+Introducción,Bárbara Coronel,Cosme Pérez,spouse 
+Introducción,Juan Rana,Juan Rana,relative
+Introducción,Juan Rana,Juan Rana,relative
+Introducción,Juan Rana,Juan Rana,relative
+Introducción,Primus calamus,Juan Caramuel,author
+Introducción,Bello (o Buen) Retiro,Madrid,located in the administrative territorial entity
+Introducción,Palacio,España,country
+Introducción,Juan Rana,España,country of citizenship
+Introducción,Juan Rana,España,country of citizenship
+Introducción,Reina,Rey,opposite of
+Introducción,El poeta de bailes,Luis Quiñones de Benavente,author
+Introducción,Luis Quiñones de Benavente,El poeta de bailes,notable work
+Introducción,El doctor Juan Rana,Cosme Pérez,cast member
+Introducción,Del horror a la risa,V. García Ruiz,discoverer or inventor
+Introducción,E. H. Friedman,Juan Rana,significant person
+Introducción,H. J. Manzari,Juan Rana,significant person
+Introducción,D. D. Miller,Juan Rana,significant person
+Introducción,El triunfo,Juan Rana,author
+Introducción,Juan Rana,El triunfo,notable work
+Introducción,Mariana de Austria,22 de diciembre de 1669,date of birth
+Introducción,1669,1668,follows
+Introducción,167Introducción,1669,follows  enero de 1670  point in time
+Introducción,El triunfo,Juan Rana,author
+Introducción,Juan Rana,El triunfo,notable work
+Introducción,Juan Rana,Zid,characters  Cid Campeador  characters
+Introducción,Lope de Vega,Lo que ha de ser,notable work
+Introducción,Lo que ha de ser,Lope de Vega,author
+Introducción,Cosme Pérez,actor,occupation
+Introducción,"El segundo Séneca de España, don Felipe II",Cosme Pérez,author 
+Introducción,Lope,"Bartola, sobrina de Rana",notable work
+Introducción,Juan Rana,Alcalde,position held
+Introducción,Juan Rana,Alcalde,position held
+Introducción,El caballero novel,Bergman,author
+Introducción,El desdén vengado,manuscrito autógrafo,instance of 
+Introducción,Lope de Vega,manuscrito autógrafo,genre
+Introducción,Cosme Pérez,manuscrito,creator
+Introducción,Cosme Pérez,manuscrito,creator
+Introducción,El Capitán Medrano,manuscrito,part of  
+Introducción,La infelice Dorotea,manuscrito,instance of 
+Introducción,Andrés de Claramonte,manuscrito,field of work
+Introducción,1621,162Introducción,follows
+Introducción,1622,1621,follows
+Introducción,Bien vengas mal,Biblioteca Nacional de Madrid,collection
+Introducción,Antonio de Escamilla,Biblioteca Nacional de Madrid,archives at
+Introducción,Roque de Figueroa,manuscrito,notable work
+Introducción,1635,1634,follows
+Introducción,Quiñones Pipote,Juan Rana,significant person
+Introducción,Juan Rana,Quiñones Pipote,significant person
+Introducción,Quiñones Pipote,Juan Rana,significant person
+Introducción,Quiñones,El poeta de bailes y el letrado,notable work
+Introducción,El poeta de bailes y el letrado,Quiñones,author
+Introducción,Al cabo de los bailes mil,Quiñones,author
+Introducción,Salón del Palacio de Buen Retiro,Juan Rana,occupant
+Introducción,Palacio de la Zarzuela,Antonio de Solís,discoverer or inventor
+Introducción,El retrato de Juan Rana,Antonio de Solís,author
+Introducción,Antonio de Solís,Bernarda Ramírez,spouse
+Introducción,Bernarda Ramírez,Antonio de Solís,spouse
+Introducción,Agustín Moreto,noviembre de 1657,date of birth
+Introducción,Triunfos de Amor y Fortuna,Antonio de Solís,author
+Introducción,Antonio de Solís,Triunfos de Amor y Fortuna,notable work
+Introducción,Alonso de Olmedo,Miguel de Orozco,significant person
+Introducción,Mateo de Godoy,Miguel de Orozco,significant person
+Introducción,María de Quiñones,Miguel de Orozco,significant person
+Introducción,María de Prado,Miguel de Orozco,significant person
+Introducción,Manuela Escamilla,Miguel de Orozco,significant person
+Introducción,Bernarda Ramírez,22 de diciembre de 1662,date of death
+Introducción,Sebastián de Prado,Bernarda Ramírez,significant person 
+Introducción,Sebastián de Prado,Bernarda Ramírez,significant person 
+Introducción,Mariana de Austria,Cotarelo,discoverer or inventor
+1617,Sáez Raposo,Sáez Raposo,said to be the same as
+1617,Sáez Raposo,Sáez Raposo,said to be the same as
+1617,El desdén vengado,Juan Bautista Valenciano,author
+1617,Lope de Vega,Juan Bautista Valenciano,significant person
+1624,nómina de la compañía,Antonio de Prado,author
+1624,Villa de Madrid,Madrid,located in the administrative territorial entity
+1634,Cofradía de Nuestra Señora de la Novena,Madrid,located in the administrative territorial entity
+1634,archivo de la Parroquia de San Sebastián,Madrid,located in the administrative territorial entity
+1634,Calle del Niño,Madrid,located in the administrative territorial entity
+1634,María de Acosta,María de Acosta,child
+1635,Cofradía de Nuestra Señora de la Novena,Cofradía de Nuestra Señora de la Novena,part of
+1635,Cofradía de Nuestra Señora de la Novena,Cofradía de Nuestra Señora de la Novena,part of
+1635,Cosme Pérez,mayordomo de la Cofradía,position held
+1635,Pedro de la Rosa,Catalina Nicolás,spouse
+1635,Catalina Nicolás,Pedro de la Rosa,spouse
+1635,iglesia de Nuestra Señora de San Lorenzo,Valladolid,located in the administrative territorial entity
+1635,Pedro de la Rosa,Catalina Nicolás,spouse
+1635,Catalina Nicolás,Pedro de la Rosa,spouse
+1635,iglesia de Nuestra Señora de San Lorenzo,Valladolid,located in the administrative territorial entity
+1635,Antonio de Vitoria,Josefa Román,unmarried partner
+1635,Josefa Román,Antonio de Vitoria,unmarried partner
+1636,Cosme Pérez,María de Acosta,spouse
+1636,María de Acosta,Cosme Pérez,spouse
+1636,Cosme Pérez,Cosme Pérez,relative
+1636,Cosme Pérez,actor,occupation
+1636,Pedro de la Rosa,actor,occupation
+1637,Hospital General de Valencia,Valencia,located in the administrative territorial entity
+1638,Pedro de la Rosa,clavario,instrument
+1638,doce de ellas nuevas,doce de ellas nuevas,is a list of
+1641,Cofradía de Nuestra Señora de la Novena,Cosme Pérez,founded by
+1642,Cofradía de Nuestra Señora de la Novena,Cosme Pérez,founded by
+1642,Cosme Pérez,Pedro de la Rosa,significant person
+1642,Pedro de la Rosa,Cosme Pérez,significant person
+1642,Antonio de Prado,"Antonio [sic, por ""Pedro""] de la Rosa",sibling
+1642,"Antonio [sic, por ""Pedro""] de la Rosa",Antonio de Prado,sibling
+1642,Pedro de la Rosa,Antonio de Prado,sibling
+1643,Catalina de Nicolás y la Rosa,Pedro de la Rosa,spouse
+1643,Pedro de la Rosa,Catalina de Nicolás y la Rosa,spouse
+1644,Pedro de la Rosa,Pedro Ascanio,sibling
+1644,Pedro Ascanio,Pedro de la Rosa,sibling
+1644,Pedro de la Rosa,Pedro Ascanio,sibling
+1644,Cosme Pérez,Antonio Marín,sibling
+1644,Antonio Marín,Cosme Pérez,sibling
+1644,Alonso de Paz,Manuela Bernabela,spouse
+1644,Manuela Bernabela,Alonso de Paz,spouse
+1644,Alonso de Paz,Manuela Bernabela,spouse
+1644,Cosme Pérez,Pedro de la Rosa,significant person
+1646,Corpus de este año y las Octavas,Pedro de la Rosa,discoverer or inventor
+1646,Corpus de este año y las Octavas,Pedro de la Rosa,discoverer or inventor
+1646,Corpus de este año y las Octavas,Pedro de la Rosa,discoverer or inventor
+1646,moneda jaquesa,Aragón,country
+1646,Aragón,moneda jaquesa,currency
+1646,Quaresma,Pedro de la Rosa,author
+1648,Convento de San José,Malagón,located in the administrative territorial entity
+1648,Luisa Enríquez Manrique,Diego de Martos,significant person
+1648,Diego de Martos,Luisa Enríquez Manrique,significant person
+1648,Diego de Martos,Luisa Enríquez Manrique,significant person
+1648,Diego de Martos,Luisa Enríquez Manrique,significant person
+1649,Juan Rana,Luisa Enríquez Manrique de Lara,spouse
+1649,Luisa Enríquez Manrique de Lara,Juan Rana,spouse
+1649,Cosme Pérez,oficio palaciego,occupation
+1650,Amarilis,María de Córdoba,significant person
+1650,María de Córdoba,Amarilis,significant person
+1650,José Antonio de Prado,Cruzada Villaamil,member of
+1650,Cosme Pérez,Cruzada Villaamil,member of
+1650,"Honrar bien, que Dios es Dios",Antonio García de Prado,author
+1650,El niño de Santa Bárbara,Antonio García de Prado,author
+1650,"Obrar bien, que Dios es Dios",Antonio García de Prado,author
+1650,El niño de Santa Barbara,Antonio García de Prado,author
+1651,Simón de Alcántara,Simón de Alcántara,sibling
+1651,Simón de Alcántara,Simón de Alcántara,sibling
+1651,Mariana de Austria,Margarita,child
+1651,Darlo todo y no dar nada,Calderón,author
+1651,Antonio de Solís,Darlo todo y no dar nada,notable work
+1651,El infierno,Juan Rana,author
+1651,Juan Rana,El infierno,notable work
+1653,Coliseo del Buen Retiro,Madrid,located in the administrative territorial entity
+1653,Andrómeda y Perseo,comedia,genre
+1653,respuesta del Conde de Altamira,Conde de Altamira,author
+1654,Juan Rana,Luisa Enríquez Manrique,significant person
+1654,Juan Rana,Luisa Enríquez Manrique,significant person
+1654,María Teresa,Juan Rana,significant person
+1654,El laberinto del mundo,Calderón,author
+1654,Calderón,El laberinto del mundo,notable work
+1654,Navalagamella,Madrid,located in the administrative territorial entity
+1654,Cofradía de Nuestra Señora del Rosario de Vicálvaro,Madrid,located in the administrative territorial entity
+1654,Luis López Sustaete,Cofradía de Nuestra Señora del Rosario de Vicálvaro,notable work
+1655,Eurídice y Orfeo,Antonio de Solís,author
+1655,Eurídice y Orfeo,Lobato,author
+1655,Las amazonas,Juan Rana,cast member
+1655,Las amazonas,Diego de Osorio,author
+1655,Diego de Osorio,Las amazonas,notable work
+1655,Carabanchel de Arriba,Carabanchel de Arriba,located in the administrative territorial entity
+1655,Un bobo hace ciento,Solís,author
+1655,Juan Rana,Un bobo hace ciento,notable work
+1655,Señora Santa Librada de Sigüenza,Diego Osorio,participant
+1655,Señora Santa Librada de Sigüenza,Diego Osorio,participant
+1655,La restauración de España,Jerónimo de Barrionuevo,discoverer or inventor
+1655,La renegada de Valladolid,Jerónimo de Barrionuevo,discoverer or inventor
+1655,princesa de Mélito,don Diego de Silva,discoverer or inventor
+1655,El contraste de amor,Juan Vélez,author
+1655,Juan Vélez,El contraste de amor,notable work
+1655,Los hombres deslucidos que se pierden sin saberse cómo ni cómo no,Juan Vélez,author 
+1655,Juan Rana en el Prado con escribano y alguacil,Juan Vélez,author
+1655,Jerónimo de Cáncer,Los hombres deslucidos que se pierden sin saberse cómo ni cómo no,notable work
+1655,Juan Rana en el Prado con escribano y alguacil,Juan Vélez,author
+1655,testamento,José Antonio Quevedo,author
+1656,Pico y Canente,Luis de Ulloa y Pereira,author
+1656,Luis de Ulloa y Pereira,Pico y Canente,notable work
+1656,Pico y Canente,Luis de Ulloa y Pereira,author
+1657,El golfo de las sirenas,Calderón,author
+1657,Calderón,El golfo de las sirenas,notable work
+1657,Francisco García 'el Pupilo',Francisco García 'el Pupilo',sibling
+1657,Diego Osorio,Francisco García 'el Pupilo',sibling
+1657,Francisco García 'el Pupilo',Francisco García 'el Pupilo',sibling
+1657,Diego Osorio,Francisco García 'el Pupilo',sibling
+1658,El alcalde de Alcorcón,Agustín Moreto,author
+1658,Triunfos de Amor y Fortuna,Antonio de Solís,author
+1658,Triunfos de Amor y Fortuna,Antonio de Solís,discoverer or inventor
+1658,Salta en banco,Antonio de Solís,discoverer or inventor
+1658,El niño caballero,entremés,genre
+1658,Juan Rana,El niño caballero,notable work
+1658,Bernarda Ramírez,El niño caballero,notable work
+1658,Francisca Bezona,El niño caballero,notable work
+1658,Mariana de Borja 'la Borja',El niño caballero,notable work
+1658,Simón Aguado,El niño caballero,notable work
+1658,Mateo Godoy,El niño caballero,notable work
+1658,Bernarda Manuela,Cosme Pérez,spouse
+1658,Cosme Pérez,Bernarda Manuela,spouse
+1658,Cosme Pérez,Bernarda Manuela,spouse
+1658,calle de Cantarranas,Madrid,located in the administrative territorial entity
+1658,Francisco Gutiérrez,Luis López Sustaete,relative
+1658,Luis López Sustaete,Francisco Gutiérrez,relative
+1658,Luis López,Cosme Pérez,relative
+1658,Francisco Gutiérrez,Luis López,relative
+1658,Luis López,Cosme Pérez,relative
+1660,El baile perdido,Antonio de Solís,discoverer or inventor
+1661,El toreador,Calderón,author
+1661,Calderón,El toreador,notable work
+1662,Juan Rana,M. L. Lobato,significant person
+1662,El ayo de Moreto,Juan Rana,author
+1662,Mateo de Godoy,El ayo de Moreto,notable work
+1662,Jerónimo Morales,El ayo de Moreto,notable work
+1662,citada investigadora,citada,notable work
+1663,Catalina Ramos,calle de Cantarranas,place of death
+1663,Juan Ramos,Catalina Ramos,child
+1663,Cosme Pérez,Cosme Pérez,relative
+1665,Juan Araña,Juan Araña,notable work
+1665,Cosme Pérez,Francisca María Pérez,child
+1665,Cosme Pérez,Francisca María Pérez,child
+1665,viejo,pobre,opposite of
+1665,pobre,viejo,opposite of
+1666,iglesia de San Sebastián,madrileña,located in the administrative territorial entity
+1666,Cosme Pérez,vecino,occupation
+1666,calle de Cantarranas,Parroquia de San Sebastián,located in the administrative territorial entity
+1666,Convento de la Santísima Trinidad,Madrid,located in the administrative territorial entity
+1666,Cosme Pérez,Francisca María Pérez,child
+1666,María de Diego,Tudela de Duero,residence
+1666,Francisco de Diego,Olivares,place of birth
+1666,iglesia parroquial de Tudela,Duero,located in the administrative territorial entity
+1666,Cosme Pérez,Antonio de Escamilla,relative
+1667,Cosme Pérez,Cofradía de Nuestra Señora de la Novena,member of
+1670,calle de Cantarranas,Parroquia de San Sebastián,located in the administrative territorial entity
+1670,Parroquia de San Sebastián,Madrid,located in the administrative territorial entity
+1670,Cosme Pérez,Francisca María Pérez,child
+1670,María de Diego,Francisco de Diego,sibling
+1670,Francisco de Diego,María de Diego,sibling
+1670,iglesia parroquial,Tudela del Duero,located in the administrative territorial entity
+1672,Hércules o Fieras afemina amor,Pedro Calderón de la Barca,author
+1672,Pedro Calderón de la Barca,Hércules o Fieras afemina amor,notable work
+1672,Fieras afemina amor,Calderón de la Barca,author
+1672,Calderón de la Barca,Fieras afemina amor,notable work
+1672,Agustín Manuel,[Antonio de] Escamilla,sibling
+1672,[Antonio de] Escamilla,Agustín Manuel,sibling
+1672,Antonio de Escamilla,Agustín Manuel,sibling
+1672,Hércules,Alonso de Olmedo,performer
+1672,Cosme Pérez,Cantarranas,place of death
+1672,Convento de Trinitarios,Madrid,located in the administrative territorial entity
+1672,Cosme Pérez,Cosme Pérez,relative
