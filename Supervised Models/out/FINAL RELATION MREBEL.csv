@@ -1,267 +1,1396 @@
-year,head,tail,relation
-Introducción,Cosme Pérez,7 de abril de 1593,date of birth
-Introducción,Cosme Pérez,7 de abril de 1593,date of birth
-Introducción,Damián Pérez,Cosme Pérez,child
-Introducción,Isabel de Basto,Cosme Pérez,child
-Introducción,Cosme Pérez,Bernarda Ramírez,spouse
-Introducción,Bernarda Ramírez,Cosme Pérez,spouse
-Introducción,Bernarda Ramírez,Cosme Pérez,significant person
-Introducción,Cosme Pérez,Bernarda Ramírez,significant person 
-Introducción,Bernarda Manuela,Cosme Pérez,significant person
-Introducción,Cosme Pérez,Bernarda Ramírez,significant person 
-Introducción,Cosme Pérez,María de Acosta,spouse
-Introducción,María de Acosta,Cosme Pérez,spouse
-Introducción,Cosme Pérez,María de Acosta,spouse
-Introducción,Domingo Canejil,Genealogía,described by source
-Introducción,Domingo Canejil,Genealogía,described by source
-Introducción,Cosme Pérez,Bárbara Coronel,spouse 
-Introducción,Bárbara Coronel,Cosme Pérez,spouse 
-Introducción,Cosme Pérez,Bárbara Coronel,spouse 
-Introducción,Bárbara Coronel,Cosme Pérez,spouse 
-Introducción,Juan Rana,Juan Rana,relative
-Introducción,Juan Rana,Juan Rana,relative
-Introducción,Juan Rana,Juan Rana,relative
-Introducción,Primus calamus,Juan Caramuel,author
-Introducción,Bello (o Buen) Retiro,Madrid,located in the administrative territorial entity
-Introducción,Palacio,España,country
-Introducción,Juan Rana,España,country of citizenship
-Introducción,Juan Rana,España,country of citizenship
-Introducción,Reina,Rey,opposite of
-Introducción,El poeta de bailes,Luis Quiñones de Benavente,author
-Introducción,Luis Quiñones de Benavente,El poeta de bailes,notable work
-Introducción,El doctor Juan Rana,Cosme Pérez,cast member
-Introducción,Del horror a la risa,V. García Ruiz,discoverer or inventor
-Introducción,E. H. Friedman,Juan Rana,significant person
-Introducción,H. J. Manzari,Juan Rana,significant person
-Introducción,D. D. Miller,Juan Rana,significant person
-Introducción,El triunfo,Juan Rana,author
-Introducción,Juan Rana,El triunfo,notable work
-Introducción,Mariana de Austria,22 de diciembre de 1669,date of birth
-Introducción,1669,1668,follows
-Introducción,167Introducción,1669,follows  enero de 1670  point in time
-Introducción,El triunfo,Juan Rana,author
-Introducción,Juan Rana,El triunfo,notable work
-Introducción,Juan Rana,Zid,characters  Cid Campeador  characters
-Introducción,Lope de Vega,Lo que ha de ser,notable work
-Introducción,Lo que ha de ser,Lope de Vega,author
-Introducción,Cosme Pérez,actor,occupation
-Introducción,"El segundo Séneca de España, don Felipe II",Cosme Pérez,author 
-Introducción,Lope,"Bartola, sobrina de Rana",notable work
-Introducción,Juan Rana,Alcalde,position held
-Introducción,Juan Rana,Alcalde,position held
-Introducción,El caballero novel,Bergman,author
-Introducción,El desdén vengado,manuscrito autógrafo,instance of 
-Introducción,Lope de Vega,manuscrito autógrafo,genre
-Introducción,Cosme Pérez,manuscrito,creator
-Introducción,Cosme Pérez,manuscrito,creator
-Introducción,El Capitán Medrano,manuscrito,part of  
-Introducción,La infelice Dorotea,manuscrito,instance of 
-Introducción,Andrés de Claramonte,manuscrito,field of work
-Introducción,1621,162Introducción,follows
-Introducción,1622,1621,follows
-Introducción,Bien vengas mal,Biblioteca Nacional de Madrid,collection
-Introducción,Antonio de Escamilla,Biblioteca Nacional de Madrid,archives at
-Introducción,Roque de Figueroa,manuscrito,notable work
-Introducción,1635,1634,follows
-Introducción,Quiñones Pipote,Juan Rana,significant person
-Introducción,Juan Rana,Quiñones Pipote,significant person
-Introducción,Quiñones Pipote,Juan Rana,significant person
-Introducción,Quiñones,El poeta de bailes y el letrado,notable work
-Introducción,El poeta de bailes y el letrado,Quiñones,author
-Introducción,Al cabo de los bailes mil,Quiñones,author
-Introducción,Salón del Palacio de Buen Retiro,Juan Rana,occupant
-Introducción,Palacio de la Zarzuela,Antonio de Solís,discoverer or inventor
-Introducción,El retrato de Juan Rana,Antonio de Solís,author
-Introducción,Antonio de Solís,Bernarda Ramírez,spouse
-Introducción,Bernarda Ramírez,Antonio de Solís,spouse
-Introducción,Agustín Moreto,noviembre de 1657,date of birth
-Introducción,Triunfos de Amor y Fortuna,Antonio de Solís,author
-Introducción,Antonio de Solís,Triunfos de Amor y Fortuna,notable work
-Introducción,Alonso de Olmedo,Miguel de Orozco,significant person
-Introducción,Mateo de Godoy,Miguel de Orozco,significant person
-Introducción,María de Quiñones,Miguel de Orozco,significant person
-Introducción,María de Prado,Miguel de Orozco,significant person
-Introducción,Manuela Escamilla,Miguel de Orozco,significant person
-Introducción,Bernarda Ramírez,22 de diciembre de 1662,date of death
-Introducción,Sebastián de Prado,Bernarda Ramírez,significant person 
-Introducción,Sebastián de Prado,Bernarda Ramírez,significant person 
-Introducción,Mariana de Austria,Cotarelo,discoverer or inventor
-1617,Sáez Raposo,Sáez Raposo,said to be the same as
-1617,Sáez Raposo,Sáez Raposo,said to be the same as
-1617,El desdén vengado,Juan Bautista Valenciano,author
-1617,Lope de Vega,Juan Bautista Valenciano,significant person
-1624,nómina de la compañía,Antonio de Prado,author
-1624,Villa de Madrid,Madrid,located in the administrative territorial entity
-1634,Cofradía de Nuestra Señora de la Novena,Madrid,located in the administrative territorial entity
-1634,archivo de la Parroquia de San Sebastián,Madrid,located in the administrative territorial entity
-1634,Calle del Niño,Madrid,located in the administrative territorial entity
-1634,María de Acosta,María de Acosta,child
-1635,Cofradía de Nuestra Señora de la Novena,Cofradía de Nuestra Señora de la Novena,part of
-1635,Cofradía de Nuestra Señora de la Novena,Cofradía de Nuestra Señora de la Novena,part of
-1635,Cosme Pérez,mayordomo de la Cofradía,position held
-1635,Pedro de la Rosa,Catalina Nicolás,spouse
-1635,Catalina Nicolás,Pedro de la Rosa,spouse
-1635,iglesia de Nuestra Señora de San Lorenzo,Valladolid,located in the administrative territorial entity
-1635,Pedro de la Rosa,Catalina Nicolás,spouse
-1635,Catalina Nicolás,Pedro de la Rosa,spouse
-1635,iglesia de Nuestra Señora de San Lorenzo,Valladolid,located in the administrative territorial entity
-1635,Antonio de Vitoria,Josefa Román,unmarried partner
-1635,Josefa Román,Antonio de Vitoria,unmarried partner
-1636,Cosme Pérez,María de Acosta,spouse
-1636,María de Acosta,Cosme Pérez,spouse
-1636,Cosme Pérez,Cosme Pérez,relative
-1636,Cosme Pérez,actor,occupation
-1636,Pedro de la Rosa,actor,occupation
-1637,Hospital General de Valencia,Valencia,located in the administrative territorial entity
-1638,Pedro de la Rosa,clavario,instrument
-1638,doce de ellas nuevas,doce de ellas nuevas,is a list of
-1641,Cofradía de Nuestra Señora de la Novena,Cosme Pérez,founded by
-1642,Cofradía de Nuestra Señora de la Novena,Cosme Pérez,founded by
-1642,Cosme Pérez,Pedro de la Rosa,significant person
-1642,Pedro de la Rosa,Cosme Pérez,significant person
-1642,Antonio de Prado,"Antonio [sic, por ""Pedro""] de la Rosa",sibling
-1642,"Antonio [sic, por ""Pedro""] de la Rosa",Antonio de Prado,sibling
-1642,Pedro de la Rosa,Antonio de Prado,sibling
-1643,Catalina de Nicolás y la Rosa,Pedro de la Rosa,spouse
-1643,Pedro de la Rosa,Catalina de Nicolás y la Rosa,spouse
-1644,Pedro de la Rosa,Pedro Ascanio,sibling
-1644,Pedro Ascanio,Pedro de la Rosa,sibling
-1644,Pedro de la Rosa,Pedro Ascanio,sibling
-1644,Cosme Pérez,Antonio Marín,sibling
-1644,Antonio Marín,Cosme Pérez,sibling
-1644,Alonso de Paz,Manuela Bernabela,spouse
-1644,Manuela Bernabela,Alonso de Paz,spouse
-1644,Alonso de Paz,Manuela Bernabela,spouse
-1644,Cosme Pérez,Pedro de la Rosa,significant person
-1646,Corpus de este año y las Octavas,Pedro de la Rosa,discoverer or inventor
-1646,Corpus de este año y las Octavas,Pedro de la Rosa,discoverer or inventor
-1646,Corpus de este año y las Octavas,Pedro de la Rosa,discoverer or inventor
-1646,moneda jaquesa,Aragón,country
-1646,Aragón,moneda jaquesa,currency
-1646,Quaresma,Pedro de la Rosa,author
-1648,Convento de San José,Malagón,located in the administrative territorial entity
-1648,Luisa Enríquez Manrique,Diego de Martos,significant person
-1648,Diego de Martos,Luisa Enríquez Manrique,significant person
-1648,Diego de Martos,Luisa Enríquez Manrique,significant person
-1648,Diego de Martos,Luisa Enríquez Manrique,significant person
-1649,Juan Rana,Luisa Enríquez Manrique de Lara,spouse
-1649,Luisa Enríquez Manrique de Lara,Juan Rana,spouse
-1649,Cosme Pérez,oficio palaciego,occupation
-1650,Amarilis,María de Córdoba,significant person
-1650,María de Córdoba,Amarilis,significant person
-1650,José Antonio de Prado,Cruzada Villaamil,member of
-1650,Cosme Pérez,Cruzada Villaamil,member of
-1650,"Honrar bien, que Dios es Dios",Antonio García de Prado,author
-1650,El niño de Santa Bárbara,Antonio García de Prado,author
-1650,"Obrar bien, que Dios es Dios",Antonio García de Prado,author
-1650,El niño de Santa Barbara,Antonio García de Prado,author
-1651,Simón de Alcántara,Simón de Alcántara,sibling
-1651,Simón de Alcántara,Simón de Alcántara,sibling
-1651,Mariana de Austria,Margarita,child
-1651,Darlo todo y no dar nada,Calderón,author
-1651,Antonio de Solís,Darlo todo y no dar nada,notable work
-1651,El infierno,Juan Rana,author
-1651,Juan Rana,El infierno,notable work
-1653,Coliseo del Buen Retiro,Madrid,located in the administrative territorial entity
-1653,Andrómeda y Perseo,comedia,genre
-1653,respuesta del Conde de Altamira,Conde de Altamira,author
-1654,Juan Rana,Luisa Enríquez Manrique,significant person
-1654,Juan Rana,Luisa Enríquez Manrique,significant person
-1654,María Teresa,Juan Rana,significant person
-1654,El laberinto del mundo,Calderón,author
-1654,Calderón,El laberinto del mundo,notable work
-1654,Navalagamella,Madrid,located in the administrative territorial entity
-1654,Cofradía de Nuestra Señora del Rosario de Vicálvaro,Madrid,located in the administrative territorial entity
-1654,Luis López Sustaete,Cofradía de Nuestra Señora del Rosario de Vicálvaro,notable work
-1655,Eurídice y Orfeo,Antonio de Solís,author
-1655,Eurídice y Orfeo,Lobato,author
-1655,Las amazonas,Juan Rana,cast member
-1655,Las amazonas,Diego de Osorio,author
-1655,Diego de Osorio,Las amazonas,notable work
-1655,Carabanchel de Arriba,Carabanchel de Arriba,located in the administrative territorial entity
-1655,Un bobo hace ciento,Solís,author
-1655,Juan Rana,Un bobo hace ciento,notable work
-1655,Señora Santa Librada de Sigüenza,Diego Osorio,participant
-1655,Señora Santa Librada de Sigüenza,Diego Osorio,participant
-1655,La restauración de España,Jerónimo de Barrionuevo,discoverer or inventor
-1655,La renegada de Valladolid,Jerónimo de Barrionuevo,discoverer or inventor
-1655,princesa de Mélito,don Diego de Silva,discoverer or inventor
-1655,El contraste de amor,Juan Vélez,author
-1655,Juan Vélez,El contraste de amor,notable work
-1655,Los hombres deslucidos que se pierden sin saberse cómo ni cómo no,Juan Vélez,author 
-1655,Juan Rana en el Prado con escribano y alguacil,Juan Vélez,author
-1655,Jerónimo de Cáncer,Los hombres deslucidos que se pierden sin saberse cómo ni cómo no,notable work
-1655,Juan Rana en el Prado con escribano y alguacil,Juan Vélez,author
-1655,testamento,José Antonio Quevedo,author
-1656,Pico y Canente,Luis de Ulloa y Pereira,author
-1656,Luis de Ulloa y Pereira,Pico y Canente,notable work
-1656,Pico y Canente,Luis de Ulloa y Pereira,author
-1657,El golfo de las sirenas,Calderón,author
-1657,Calderón,El golfo de las sirenas,notable work
-1657,Francisco García 'el Pupilo',Francisco García 'el Pupilo',sibling
-1657,Diego Osorio,Francisco García 'el Pupilo',sibling
-1657,Francisco García 'el Pupilo',Francisco García 'el Pupilo',sibling
-1657,Diego Osorio,Francisco García 'el Pupilo',sibling
-1658,El alcalde de Alcorcón,Agustín Moreto,author
-1658,Triunfos de Amor y Fortuna,Antonio de Solís,author
-1658,Triunfos de Amor y Fortuna,Antonio de Solís,discoverer or inventor
-1658,Salta en banco,Antonio de Solís,discoverer or inventor
-1658,El niño caballero,entremés,genre
-1658,Juan Rana,El niño caballero,notable work
-1658,Bernarda Ramírez,El niño caballero,notable work
-1658,Francisca Bezona,El niño caballero,notable work
-1658,Mariana de Borja 'la Borja',El niño caballero,notable work
-1658,Simón Aguado,El niño caballero,notable work
-1658,Mateo Godoy,El niño caballero,notable work
-1658,Bernarda Manuela,Cosme Pérez,spouse
-1658,Cosme Pérez,Bernarda Manuela,spouse
-1658,Cosme Pérez,Bernarda Manuela,spouse
-1658,calle de Cantarranas,Madrid,located in the administrative territorial entity
-1658,Francisco Gutiérrez,Luis López Sustaete,relative
-1658,Luis López Sustaete,Francisco Gutiérrez,relative
-1658,Luis López,Cosme Pérez,relative
-1658,Francisco Gutiérrez,Luis López,relative
-1658,Luis López,Cosme Pérez,relative
-1660,El baile perdido,Antonio de Solís,discoverer or inventor
-1661,El toreador,Calderón,author
-1661,Calderón,El toreador,notable work
-1662,Juan Rana,M. L. Lobato,significant person
-1662,El ayo de Moreto,Juan Rana,author
-1662,Mateo de Godoy,El ayo de Moreto,notable work
-1662,Jerónimo Morales,El ayo de Moreto,notable work
-1662,citada investigadora,citada,notable work
-1663,Catalina Ramos,calle de Cantarranas,place of death
-1663,Juan Ramos,Catalina Ramos,child
-1663,Cosme Pérez,Cosme Pérez,relative
-1665,Juan Araña,Juan Araña,notable work
-1665,Cosme Pérez,Francisca María Pérez,child
-1665,Cosme Pérez,Francisca María Pérez,child
-1665,viejo,pobre,opposite of
-1665,pobre,viejo,opposite of
-1666,iglesia de San Sebastián,madrileña,located in the administrative territorial entity
-1666,Cosme Pérez,vecino,occupation
-1666,calle de Cantarranas,Parroquia de San Sebastián,located in the administrative territorial entity
-1666,Convento de la Santísima Trinidad,Madrid,located in the administrative territorial entity
-1666,Cosme Pérez,Francisca María Pérez,child
-1666,María de Diego,Tudela de Duero,residence
-1666,Francisco de Diego,Olivares,place of birth
-1666,iglesia parroquial de Tudela,Duero,located in the administrative territorial entity
-1666,Cosme Pérez,Antonio de Escamilla,relative
-1667,Cosme Pérez,Cofradía de Nuestra Señora de la Novena,member of
-1670,calle de Cantarranas,Parroquia de San Sebastián,located in the administrative territorial entity
-1670,Parroquia de San Sebastián,Madrid,located in the administrative territorial entity
-1670,Cosme Pérez,Francisca María Pérez,child
-1670,María de Diego,Francisco de Diego,sibling
-1670,Francisco de Diego,María de Diego,sibling
-1670,iglesia parroquial,Tudela del Duero,located in the administrative territorial entity
-1672,Hércules o Fieras afemina amor,Pedro Calderón de la Barca,author
-1672,Pedro Calderón de la Barca,Hércules o Fieras afemina amor,notable work
-1672,Fieras afemina amor,Calderón de la Barca,author
-1672,Calderón de la Barca,Fieras afemina amor,notable work
-1672,Agustín Manuel,[Antonio de] Escamilla,sibling
-1672,[Antonio de] Escamilla,Agustín Manuel,sibling
-1672,Antonio de Escamilla,Agustín Manuel,sibling
-1672,Hércules,Alonso de Olmedo,performer
-1672,Cosme Pérez,Cantarranas,place of death
-1672,Convento de Trinitarios,Madrid,located in the administrative territorial entity
-1672,Cosme Pérez,Cosme Pérez,relative
+DOCUMENT,SUBLABEL,MODEL,HEAD,TAIL,RELATION,HEAD_TYPE,TAIL_TYPE
+A,1,mrebel,Juan Rana,Tudela de Duero,place of birth,Per,Loc
+A,2,mrebel,Fundación Universitaria Española,Madrid,located in the administrative territorial entity,Org,Loc
+A,3,mrebel,Sánchez Arjona,Bernarda Ramírez,spouse,Per,Per
+A,4,mrebel,Subirá,Bernarda Ramírez,spouse,Per,Per
+A,5,mrebel,Bernarda Ramírez,Sánchez Arjona,spouse,Per,Per
+A,1,rebel,Fundación Universitaria Española,Madrid,located in the administrative territorial entity,,
+B,1,mrebel,Tudela de Duero,Valladolid,located in the administrative territorial entity,Loc,Loc
+B,2,mrebel,Fundación Universitaria Española,Madrid,located in the administrative territorial entity,Org,Loc
+B,3,mrebel,Sánchez Arjona,Bernarda Ramírez,spouse,Per,Per
+B,4,mrebel,Subirá,Bernarda Ramírez,spouse,Per,Per
+B,5,mrebel,Bernarda Ramírez,Sánchez Arjona,spouse,Per,Per
+B,1,rebel,Tudela de Duero,Valladolid,located in the administrative territorial entity,,
+C,1,mrebel,Fundación Universitaria Española,Madrid,located in the administrative territorial entity,Org,Loc
+C,2,mrebel,Bernarda Ramírez,Cosme Pérez,spouse,Per,Per
+C,3,mrebel,Bernarda Ramírez,Cosme Pérez,spouse,Per,Per
+C,4,mrebel,Bernarda Manuela,Cosme Pérez,spouse,Per,Per
+C,5,mrebel,Cosme Pérez,Bernarda Ramírez,spouse,Per,Per
+C,1,rebel,Fundación Universitaria Española,Madrid,located in the administrative territorial entity,,
+D,1,mrebel,Fundación Universitaria Española,Madrid,located in the administrative territorial entity,Org,Loc
+D,2,mrebel,Sánchez Arjona,Bernarda Ramírez,spouse,Per,Per
+D,3,mrebel,Subirá,Bernarda Ramírez,spouse,Per,Per
+D,4,mrebel,Bernarda Ramírez,Sánchez Arjona,spouse,Per,Per
+D,5,mrebel,Cotarelo,Cosme Pérez,spouse,Per,Per
+D,6,mrebel,Cosme Pérez,Cotarelo,spouse,Per,Per
+D,1,rebel,Fundación Universitaria Española,Madrid,located in the administrative territorial entity,,
+E,1,mrebel,Bernarda Ramírez,Bernarda Manuela,significant person,Per,Per
+E,2,mrebel,Bernarda Manuela,Bernarda Ramírez,significant person,Per,Per
+E,3,mrebel,Cotarelo,Bernarda Ramírez,significant person,Per,Per
+E,4,mrebel,CLX,Bernarda Ramírez,significant person,Per,Per
+E,5,mrebel,Cosme Pérez,Bernarda Ramírez,significant person,Per,Per
+E,6,mrebel,Bernarda Ramírez,Bernarda Manuela,significant person,Per,Per
+E,7,mrebel,Bernarda Manuela,Bernarda Ramírez,significant person,Per,Per
+E,1,rebel,Bernarda Ramírez,Cosme Pérez,spouse,,
+E,2,rebel,Cosme Pérez,Bernarda Ramírez,spouse,,
+F,1,mrebel,María de Acosta,Francisca María Pérez,child,Per,Per
+F,1,rebel,Bernarda Ramírez,Francisca María Pérez,spouse,,
+F,2,rebel,Francisca María Pérez,Bernarda Ramírez,spouse,,
+G,1,mrebel,María de Acosta,Francisca María Pérez,child,Per,Per
+G,1,rebel,Cosme Pérez,María de Acosta,spouse,,
+G,2,rebel,María de Acosta,Cosme Pérez,spouse,,
+H,1,mrebel,Domingo Canejil,María de Acosta,spouse,Per,Per
+H,1,rebel,María de Acosta,Francisca María Pérez,spouse,,
+H,2,rebel,Francisca María Pérez,María de Acosta,spouse,,
+I,1,mrebel,Domingo Canejil,Juan Rana,relative,Per,Per
+I,2,mrebel,Juan Rana,Domingo Canejil,relative,Per,Per
+I,3,mrebel,Bárbara Coronel,Cosme Pérez,spouse,Per,Per
+I,4,mrebel,Cosme Pérez,Bárbara Coronel,spouse,Per,Per
+I,5,mrebel,Bárbara Coronel,Cosme Pérez,spouse,Per,Per
+I,1,rebel,Domingo Canejil,1707,date of death,,
+J,1,mrebel,Bárbara Coronel,Cosme Pérez,spouse,Per,Per
+J,2,mrebel,Cosme Pérez,Bárbara Coronel,spouse,Per,Per
+J,3,mrebel,Bárbara Coronel,Cosme Pérez,spouse,Per,Per
+J,1,rebel,Domingo Canejil,1707,date of death,,
+K,1,mrebel,Cosme Pérez,Bárbara Coronel,spouse,Per,Per
+K,2,mrebel,Bárbara Coronel,Cosme Pérez,spouse,Per,Per
+K,1,rebel,Bárbara Coronel,Guadalajara,place of death,,
+L,1,mrebel,Juan Rana,Juan Rana,relative,Per,Per
+L,2,mrebel,Juan Rana,Juan Rana,relative,Per,Per
+L,1,rebel,Juan Rana,María Teresa de Austria,spouse,,
+L,2,rebel,María Teresa de Austria,Juan Rana,spouse  Juan Rana  spouse,,
+L,3,rebel,Juan Rana,María Teresa de Austria,spouse,,
+M,1,mrebel,Juan Rana,Juan Rana,relative,Per,Per
+M,2,mrebel,Juan Rana,Juan Rana,relative,Per,Per
+M,3,mrebel,Juan Rana,Juan Rana,relative,Per,Per
+M,1,rebel,Juan Rana,María Teresa de Austria,spouse,,
+M,2,rebel,María Teresa de Austria,Juan Rana,spouse,,
+N,1,mrebel,Juan Rana,Juan Rana,relative,Per,Per
+N,2,mrebel,Juan Rana,Juan Rana,relative,Per,Per
+N,1,rebel,Juan Rana,María Teresa de Austria,spouse,,
+N,2,rebel,María Teresa de Austria,Juan Rana,spouse  Juan Rana  spouse,,
+N,3,rebel,Juan Rana,María Teresa de Austria,spouse,,
+O,1,mrebel,Juan Rana,María Teresa de Austria,significant person,Per,Per
+O,2,mrebel,Juan Rana,María Teresa de Austria,significant person,Per,Per
+O,1,rebel,Juan Rana,María Teresa de Austria,spouse,,
+O,2,rebel,María Teresa de Austria,Juan Rana,spouse  Juan Rana  spouse,,
+O,3,rebel,Juan Rana,María Teresa de Austria,spouse,,
+P,1,rebel,Cosme Pérez,Cantarranas,place of birth,,
+Q,1,mrebel,Pellicer,Cotarelo,significant person,Per,Per
+Q,2,mrebel,Cotarelo,Pellicer,significant person,Per,Per
+Q,3,mrebel,Juan Caramuel,Primus calamus,notable work,Per,Concept
+Q,4,mrebel,Primus calamus,Juan Caramuel,author,Concept,Per
+Q,5,mrebel,Salón del Palacio,Madrid,located in the administrative territorial entity,Concept,Loc
+Q,6,mrebel,Bello (o Buen) Retiro,Madrid,located in the administrative territorial entity,Loc,Loc
+Q,1,rebel,Salón del Palacio,Madrid,located in the administrative territorial entity,,
+R,1,mrebel,Juan Caramuel,Primus calamus,notable work,Per,Concept
+R,2,mrebel,Primus calamus,Juan Caramuel,author,Concept,Per
+R,3,mrebel,Salón del Palacio,Madrid,located in the administrative territorial entity,Concept,Loc
+R,4,mrebel,Bello (o Buen) Retiro,Madrid,located in the administrative territorial entity,Loc,Loc
+R,1,rebel,Salón del Palacio,Madrid,located in the administrative territorial entity,,
+S,1,mrebel,Primus calamus,Juan Caramuel,author,Concept,Per
+S,2,mrebel,Palacio,Madrid,located in the administrative territorial entity,Loc,Loc
+S,3,mrebel,Retiro,Madrid,located in the administrative territorial entity,Loc,Loc
+S,1,rebel,Juan Caramuel,Primus calamus,notable work,,
+S,2,rebel,Primus calamus,Juan Caramuel,author,,
+T,1,rebel,El Rey,Reina,sibling  Grandes  sibling,,
+T,2,rebel,Reina,El Rey,sibling  Grandes  sibling,,
+T,3,rebel,Grandes,El Rey,sibling  Reina  sibling,,
+U,1,rebel,El Rey,Reina,spouse,,
+U,2,rebel,Reina,El Rey,spouse,,
+V,1,rebel,Juan Rana,Señoras de la primera grandeza,award received,,
+W,1,mrebel,Luis de Belmonte,La maestra de gracias,notable work,Per,Concept
+W,2,mrebel,La maestra de gracias,Luis de Belmonte,author,Concept,Per
+W,3,mrebel,El poeta de bailes,Luis Quiñones de Benavente,author,Concept,Per
+W,4,mrebel,Luis Quiñones de Benavente,El poeta de bailes,notable work,Per,Concept
+W,1,rebel,Luis Quiñones de Benavente,El poeta de bailes,notable work,,
+X,1,mrebel,El poeta de bailes,Luis Quiñones de Benavente,author,Media,Per
+X,2,mrebel,Luis Quiñones de Benavente,El poeta de bailes,notable work,Per,Media
+X,1,rebel,El poeta de bailes,Luis Quiñones de Benavente,author,,
+X,2,rebel,Luis Quiñones de Benavente,El poeta de bailes,notable work,,
+Y,1,mrebel,El doctor Juan Rana,H. Bergman,discoverer or inventor,Concept,Per
+Y,2,mrebel,Be,H. Bergman,discoverer or inventor,Media,Per
+Y,3,mrebel,Be,H. Bergman,discoverer or inventor,Media,Per
+Y,4,mrebel,Be,H. Bergman,discoverer or inventor,Media,Per
+Y,1,rebel,El doctor Juan Rana,Juan Rana,characters,,
+Y,2,rebel,Juan Rana,El doctor Juan Rana,present in work,,
+Z,1,mrebel,Be,Cosme Pérez,author,Media,Per
+Z,2,mrebel,Be,Cosme Pérez,author,Media,Per
+Z,3,mrebel,Be,Cosme Pérez,author,Media,Per
+Z,4,mrebel,Be,Cosme Pérez,author,Media,Per
+Z,5,mrebel,Be,Cosme Pérez,author,Media,Per
+Z,1,rebel,El doctor Juan Rana,Juan Rana,characters,,
+Z,2,rebel,Juan Rana,El doctor Juan Rana,present in work,,
+AA,1,rebel,Juan Rana homosexual,homosexual,instance of,,
+AB,1,mrebel,Christiane Faliu-Lacourt,Reichenberger,notable work,Per,Org
+AB,2,mrebel,Reichenberger,Christiane Faliu-Lacourt,author,Org,Per
+AB,1,rebel,Juan Rana,homosexual,instance of,,
+AB,2,rebel,Juan Rana,homosexual,instance of,,
+AC,1,mrebel,Frédéric Serralta,Frédéric Serralta,relative,Per,Per
+AC,1,rebel,Juan Rana homosexual,Frédéric Serralta,author,,
+AD,1,rebel,A society on Stage: Essays on Spanish Golden Drama,University Press of the South,publisher,,
+AE,1,mrebel,Peter Thompson,Juan Rana,significant person,Per,Per
+AE,2,mrebel,Juan Rana,Peter Thompson,significant person,Per,Per
+AE,3,mrebel,E. H. Friedman,Juan Rana,significant person,Per,Per
+AE,4,mrebel,H. J. Manzari,Juan Rana,significant person,Per,Per
+AE,5,mrebel,D. D. Miller,Juan Rana,significant person,Per,Per
+AE,6,mrebel,University Press of the South,New Orleans,headquarters location,Org,Loc
+AE,1,rebel,Del horror a la risa: los géneros teatrales clásicos,1994,publication date,,
+AF,1,mrebel,Christiane Faliu-Lacourt,"Kassel, Reichenberger",notable work,Per,Org
+AF,2,mrebel,"Kassel, Reichenberger",Christiane Faliu-Lacourt,author,Org,Per
+AF,1,rebel,Del horror a la risa: los géneros teatrales clásicos,1994,publication date,,
+AG,1,rebel,Del horror a la risa: los géneros teatrales clásicos,1994,publication date,,
+AH,1,rebel,A society on Stage: Essays on Spanish Golden Drama,1998,publication date,,
+AI,1,rebel,A society on Stage: Essays on Spanish Golden Drama,1998,publication date,,
+AJ,1,rebel,Homenaje a Christiane Faliu-Lacourt,1994,publication date,,
+AK,1,rebel,"A society on Stage: Essays on Spanish Golden Drama, New Orleans",University Press of the South,publisher  1998  publication date,,
+AL,1,rebel,A society on Stage: Essays on Spanish Golden Drama,University Press of the South,publisher  1998  publication date,,
+AM,1,rebel,A society on Stage: Essays on Spanish Golden Drama,University Press of the South,publisher  1998  publication date,,
+AN,1,rebel,A society on Stage: Essays on Spanish Golden Drama,University Press of the South,publisher  1998  publication date,,
+AO,1,rebel,A society on Stage: Essays on Spanish Golden Drama,University Press of the South,publisher  1998  publication date,,
+AP,1,rebel,A society on Stage: Essays on Spanish Golden Drama,University Press of the South,publisher  1998  publication date,,
+AQ,1,rebel,A society on Stage: Essays on Spanish Golden Drama,University Press of the South,publisher  1998  publication date,,
+AR,1,rebel,El origen del nombre artístico Juan Rana,Voz y Letra,published in  2004  publication date,,
+AS,1,mrebel,F. Sáez Raposo,Voz y Letra,notable work,Per,Concept
+AS,2,mrebel,Voz y Letra,F. Sáez Raposo,author,Concept,Per
+AS,1,rebel,F. Sáez Raposo,El origen del nombre artístico Juan Rana,notable work,,
+AS,2,rebel,El origen del nombre artístico Juan Rana,F. Sáez Raposo,author,,
+AT,1,mrebel,F. Sáez Raposo,El origen del nombre artístico Juan Rana,notable work,Per,Concept
+AT,2,mrebel,El origen del nombre artístico Juan Rana,F. Sáez Raposo,author,Concept,Per
+AT,1,rebel,F. Sáez Raposo,El origen del nombre artístico Juan Rana,notable work,,
+AT,2,rebel,El origen del nombre artístico Juan Rana,F. Sáez Raposo,author,,
+AU,1,mrebel,F. Sáez Raposo,El origen del nombre artístico Juan Rana,notable work,Per,Concept
+AU,2,mrebel,El origen del nombre artístico Juan Rana,F. Sáez Raposo,author,Concept,Per
+AU,1,rebel,Sáez Raposo,Voz y Letra,notable work,,
+AU,2,rebel,Sáez Raposo,Voz y Letra,notable work,,
+AU,3,rebel,Voz y Letra,Sáez Raposo,author  Sáez Raposo  author,,
+AU,4,rebel,Sáez Raposo,Voz y Letra,notable work,,
+AV,1,mrebel,Fieras afemina amor,Calderón,author,Concept,Per
+AV,2,mrebel,El triunfo de Juan Rana,Calderón,author,Concept,Per
+AV,1,rebel,El triunfo de Juan Rana,Calderón Fieras,composer,,
+AW,1,mrebel,Fieras afemina amor,Calderón,author,Concept,Per
+AW,2,mrebel,El triunfo de Juan Rana,Calderón,author,Concept,Per
+AW,3,mrebel,Mariana de Austria,22 de diciembre de 1669,date of birth,Per,Date
+AW,4,mrebel,1669,1668,follows,Time,Time
+AW,5,mrebel,1670,1669,follows,Time,Time
+AW,1,rebel,El triunfo de Juan Rana,1668,date of first performance,,
+AX,1,mrebel,Fieras afemina amor,Calderón,author,Concept,Per
+AX,2,mrebel,El triunfo,Juan Rana,author,Concept,Per
+AX,3,mrebel,Juan Rana,El triunfo,notable work,Per,Concept
+AX,4,mrebel,Mariana de Austria,22 de diciembre de 1669,date of birth,Per,Date
+AX,5,mrebel,1669,1668,follows,Time,Time
+AX,6,mrebel,1670,1669,follows,Time,Time
+AX,1,rebel,El triunfo de Juan Rana,1670,publication date,,
+AY,1,mrebel,Fieras afemina amor,Calderón,author,Concept,Per
+AY,2,mrebel,El triunfo de Juan Rana,Calderón,author,Concept,Per
+AY,3,mrebel,Mariana de Austria,22 de diciembre de 1669,date of birth,Per,Date
+AY,4,mrebel,1669,1668,follows,Time,Time
+AY,5,mrebel,1670,1669,follows,Time,Time
+AY,1,rebel,El triunfo de Juan Rana,1670,publication date,,
+AZ,1,mrebel,Mariana de Austria,Cotarelo y Mori,significant person,Per,Per
+AZ,2,mrebel,1669,1668,follows,Time,Time
+AZ,3,mrebel,1670,1669,follows,Time,Time
+AZ,4,mrebel,Fieras afemina amor,Calderón de la Barca,author,Concept,Per
+AZ,5,mrebel,Calderón de la Barca,Fieras afemina amor,notable work,Per,Concept
+AZ,1,rebel,El triunfo de Juan Rana,1672,publication date,,
+BA,1,mrebel,Mariana de Austria,22 de diciembre de 1669,date of birth,Per,Date
+BA,2,mrebel,1669,1668,follows,Time,Time
+BA,3,mrebel,1670,1669,follows,Time,Time
+BA,1,rebel,Fieras,Calderón de la Barca,spouse,,
+BA,2,rebel,Calderón de la Barca,Fieras,spouse,,
+BB,1,mrebel,1669,1668,follows,Time,Time
+BB,2,mrebel,1670,1669,follows,Time,Time
+BB,1,rebel,Mariana de Austria,reina madre,occupation,,
+BC,1,rebel,Fieras,29 de enero de 1672,date of birth  29 de enero de 1672  date of birth,,
+BD,1,rebel,Juan Rana,1624,work period (start),,
+BD,2,rebel,Juan Rana,1624,work period (start),,
+BE,1,mrebel,Lo que ha de ser,Lope de Vega,author,Concept,Per
+BE,1,rebel,Juan Rana,Lope de Vega Lo,creator,,
+BE,2,rebel,Juan Rana,Lope de Vega Lo,creator,,
+BF,1,mrebel,Lo que ha de ser,Lope de Vega,author,Concept,Per
+BF,1,rebel,Juan Rana,Lope de Vega Lo,creator,,
+BF,2,rebel,Juan Rana,Lope de Vega Lo,creator,,
+BG,1,mrebel,Lo que ha de ser,Lope de Vega,author,Concept,Per
+BG,2,mrebel,"El segundo Séneca de España, don Felipe II",Juan Pérez de Montalbán,author,Concept,Per
+BG,1,rebel,Juan Rana,1624,work period (start),,
+BH,1,mrebel,Lo que ha de ser,Lope de Vega,author,Concept,Per
+BH,2,mrebel,"El segundo Séneca de España, don Felipe II",Juan Pérez de Montalbán,author,Concept,Per
+BH,1,rebel,Juan Rana,Sáez Raposo,performer,,
+BI,1,mrebel,Juan Pérez de Montalbán,"El segundo Séneca de España, don Felipe II",notable work,Per,Concept
+BI,2,mrebel,"El segundo Séneca de España, don Felipe II",Juan Pérez de Montalbán,author,Concept,Per
+BI,1,rebel,Juan Pérez de Montalbán,Felipe II,father,,
+BI,2,rebel,Felipe II,Juan Pérez de Montalbán,child,,
+BJ,1,mrebel,"El segundo Séneca de España, don Felipe II",Juan Pérez de Montalbán,author,Concept,Per
+BJ,1,rebel,Juan Pérez de Montalbán,Cosme Pérez,child,,
+BJ,2,rebel,Cosme Pérez,Juan Pérez de Montalbán,father,,
+BK,1,mrebel,Lope,Juan Rana,notable work,Per,Org
+BK,2,mrebel,Juan Rana,Lope,author,Org,Per
+BK,3,mrebel,El caballero novel,Bergman,author,Org,Per
+BK,1,rebel,Juan Rana,El caballero novel,present in work,,
+BK,2,rebel,Juan Rana,El caballero novel,present in work,,
+BK,3,rebel,El caballero novel,Juan Rana,characters  Juan Rana  characters  Juan Rana  characters,,
+BK,4,rebel,Juan Rana,El caballero novel,present in work,,
+BL,1,rebel,Juan Rana,Biblioteca Nacional de Madrid,has works in the collection,,
+BL,2,rebel,Juan Rana,Biblioteca Nacional de Madrid,has works in the collection,,
+BM,1,rebel,Juan Rana,Biblioteca Nacional de Madrid,has works in the collection,,
+BM,2,rebel,Juan Rana,Biblioteca Nacional de Madrid,has works in the collection,,
+BN,1,mrebel,El desdén vengado,Biblioteca Nacional de Madrid,collection,Concept,Loc
+BN,2,mrebel,Lope de Vega,Biblioteca Nacional de Madrid,has works in the collection,Per,Loc
+BN,1,rebel,Juan Rana,Biblioteca Nacional de Madrid,has works in the collection,,
+BN,2,rebel,Juan Rana,Biblioteca Nacional de Madrid,has works in the collection,,
+BN,3,rebel,Juan Rana,Biblioteca Nacional de Madrid,has works in the collection,,
+BO,1,mrebel,El desdén vengado,Biblioteca Nacional de Madrid,collection,Concept,Loc
+BO,2,mrebel,Lope de Vega,Biblioteca Nacional de Madrid,has works in the collection,Per,Loc
+BO,1,rebel,Juan Rana,Biblioteca Nacional de Madrid,has works in the collection,,
+BO,2,rebel,Juan Rana,Biblioteca Nacional de Madrid,has works in the collection,,
+BP,1,mrebel,El desdén vengado,Biblioteca Nacional de Madrid,collection,Concept,Loc
+BP,2,mrebel,Lope de Vega,Biblioteca Nacional de Madrid,has works in the collection,Per,Loc
+BP,1,rebel,Juan Rana,Biblioteca Nacional de Madrid,has works in the collection,,
+BP,2,rebel,Juan Rana,Biblioteca Nacional de Madrid,has works in the collection,,
+BQ,1,mrebel,El desdén vengado,Cosme Pérez,discoverer or inventor,Concept,Per
+BQ,2,mrebel,Lope de Vega,Biblioteca Nacional de Madrid,has works in the collection,Per,Loc
+BQ,1,rebel,Juan Rana,Biblioteca Nacional de Madrid,has works in the collection,,
+BQ,2,rebel,Juan Rana,Biblioteca Nacional de Madrid,has works in the collection,,
+BR,1,mrebel,Biblioteca Nacional de Madrid,Madrid,located in the administrative territorial entity,Loc,Loc
+BR,2,mrebel,El desdén vengado,Cosme Pérez,author,Concept,Per
+BR,3,mrebel,Lope de Vega,El desdén vengado,notable work,Per,Concept
+BR,1,rebel,Juan Rana,Biblioteca Nacional de Madrid,has works in the collection,,
+BR,2,rebel,Juan Rana,Biblioteca Nacional de Madrid,has works in the collection,,
+BS,1,mrebel,Biblioteca Nacional de Madrid,Madrid,located in the administrative territorial entity,Loc,Loc
+BS,2,mrebel,El desdén vengado,Lope de Vega,author,Concept,Per
+BS,3,mrebel,Lope de Vega,El desdén vengado,notable work,Per,Concept
+BS,1,rebel,Juan Rana,Biblioteca Nacional de Madrid,has works in the collection,,
+BS,2,rebel,Juan Rana,Biblioteca Nacional de Madrid,has works in the collection,,
+BT,1,mrebel,Biblioteca Nacional de Madrid,Madrid,located in the administrative territorial entity,Loc,Loc
+BT,2,mrebel,El desdén vengado,Cosme Pérez,discoverer or inventor,Concept,Per
+BT,3,mrebel,Lope de Vega,Biblioteca Nacional de Madrid,has works in the collection,Per,Loc
+BT,1,rebel,Juan Rana,Biblioteca Nacional de Madrid,has works in the collection,,
+BT,2,rebel,Juan Rana,Biblioteca Nacional de Madrid,has works in the collection,,
+BT,3,rebel,Juan Rana,Biblioteca Nacional de Madrid,has works in the collection,,
+BU,1,mrebel,Biblioteca Nacional de Madrid,Madrid,located in the administrative territorial entity,Loc,Loc
+BU,2,mrebel,El desdén vengado,Cosme Pérez,discoverer or inventor,Concept,Per
+BU,3,mrebel,Lope de Vega,Biblioteca Nacional de Madrid,has works in the collection,Per,Loc
+BU,1,rebel,Juan Rana,Biblioteca Nacional de Madrid,has works in the collection,,
+BU,2,rebel,Juan Rana,Biblioteca Nacional de Madrid,has works in the collection,,
+BU,3,rebel,Juan Rana,Biblioteca Nacional de Madrid,has works in the collection,,
+BV,1,mrebel,El desdén vengado,Cosme Pérez,discoverer or inventor,Concept,Per
+BV,2,mrebel,Lope de Vega,El desdén vengado,notable work,Per,Concept
+BV,1,rebel,Juan Rana,Biblioteca Nacional de Madrid,has works in the collection,,
+BV,2,rebel,Juan Rana,Biblioteca Nacional de Madrid,has works in the collection,,
+BW,1,mrebel,El desdén vengado,Lope de Vega,author,Concept,Per
+BW,2,mrebel,Lope de Vega,El desdén vengado,notable work,Per,Concept
+BW,1,rebel,El desdén vengado,Lope de Vega,author,,
+BW,2,rebel,Lope de Vega,El desdén vengado,notable work,,
+BX,1,mrebel,El desdén vengado,Lope de Vega,author,Concept,Per
+BX,2,mrebel,Lope de Vega,El desdén vengado,notable work,Per,Concept
+BX,1,rebel,El desdén vengado,Lope de Vega,author,,
+BX,2,rebel,Lope de Vega,El desdén vengado,notable work,,
+BY,1,mrebel,El desdén vengado,Biblioteca Nacional de Madrid,collection,Concept,Loc
+BY,2,mrebel,Lope de Vega,Biblioteca Nacional de Madrid,has works in the collection,Per,Loc
+BY,1,rebel,El desdén vengado,Lope de Vega,author,,
+BY,2,rebel,Lope de Vega,El desdén vengado,notable work,,
+BZ,1,mrebel,El desdén vengado,Lope de Vega,author,Concept,Per
+BZ,2,mrebel,Lope de Vega,El desdén vengado,notable work,Per,Concept
+BZ,1,rebel,El desdén vengado,Lope de Vega,author,,
+BZ,2,rebel,Lope de Vega,El desdén vengado,notable work,,
+CA,1,mrebel,El desdén vengado,Lope de Vega,author,Concept,Per
+CA,2,mrebel,Lope de Vega,El desdén vengado,notable work,Per,Concept
+CA,1,rebel,El desdén vengado,Lope de Vega,author,,
+CA,2,rebel,Lope de Vega,El desdén vengado,notable work,,
+CB,1,mrebel,El desdén vengado,Lope de Vega,author,Concept,Per
+CB,2,mrebel,Lope de Vega,El desdén vengado,notable work,Per,Concept
+CB,1,rebel,El desdén vengado,Lope de Vega,author,,
+CB,2,rebel,Lope de Vega,El desdén vengado,notable work,,
+CC,1,mrebel,El desdén vengado,Lope de Vega,author,Concept,Per
+CC,2,mrebel,Lope de Vega,El desdén vengado,notable work,Per,Concept
+CC,1,rebel,"El desdén vengado, de Lope de Vega",Biblioteca Nacional de Madrid,collection  Biblioteca Nacional de Madrid  collection,,
+CD,1,mrebel,Biblioteca Nacional de Madrid,Madrid,located in the administrative territorial entity,Loc,Loc
+CD,2,mrebel,La nueva victoria de don Gonzalo de Córdoba,Biblioteca Nacional de Madrid,collection,Concept,Loc
+CD,1,rebel,Biblioteca Nacional de Madrid,Madrid,located in the administrative territorial entity  Madrid  located in the administrative territorial entity,,
+CE,1,mrebel,La nueva victoria de don Gonzalo de Córdoba,Biblioteca Nacional de Madrid,collection,Concept,Loc
+CE,1,rebel,"La nueva victoria de don Gonzalo de Córdoba, de Lope de Vega",Biblioteca Nacional de Madrid,collection,,
+CF,1,mrebel,La nueva victoria de don Gonzalo de Córdoba,Biblioteca Nacional de Madrid,collection,Concept,Loc
+CF,1,rebel,"La nueva victoria de don Gonzalo de Córdoba, de Lope de Vega",Biblioteca Nacional de Madrid,collection,,
+CG,1,mrebel,La nueva victoria de don Gonzalo de Córdoba,Biblioteca Nacional de Madrid,collection,Concept,Loc
+CG,2,mrebel,Lope de Vega,Biblioteca Nacional de Madrid,archives at,Per,Loc
+CG,1,rebel,"La nueva victoria de don Gonzalo de Córdoba, de Lope de Vega",Biblioteca Nacional de Madrid,collection,,
+CH,1,mrebel,La nueva victoria de don Gonzalo de Córdoba,Biblioteca Nacional de Madrid,collection,Concept,Loc
+CH,2,mrebel,Lope de Vega,Biblioteca Nacional de Madrid,has works in the collection,Per,Loc
+CH,1,rebel,"La nueva victoria de don Gonzalo de Córdoba, de Lope de Vega",Biblioteca Nacional de Madrid,collection,,
+CI,1,mrebel,La nueva victoria de don Gonzalo de Córdoba,Biblioteca Nacional de Madrid,collection,Concept,Loc
+CI,2,mrebel,Lope de Vega,Biblioteca Nacional de Madrid,has works in the collection,Per,Loc
+CI,1,rebel,"La nueva victoria de don Gonzalo de Córdoba, de Lope de Vega",Biblioteca Nacional de Madrid,collection,,
+CJ,1,mrebel,Cosme Pérez,Biblioteca Nacional de Madrid,has works in the collection,Per,Loc
+CJ,2,mrebel,Cosme Pérez,Biblioteca Nacional de Madrid,has works in the collection,Per,Loc
+CJ,1,rebel,"La nueva victoria de don Gonzalo de Córdoba, de Lope de Vega",Biblioteca Nacional de Madrid,collection,,
+CK,1,mrebel,Cosme Pérez,El Capitán Medrano,notable work,Per,Media
+CK,2,mrebel,El Capitán Medrano,Cosme Pérez,author,Media,Per
+CK,3,mrebel,Cosme Pérez,El Capitán Medrano,notable work,Per,Media
+CK,1,rebel,"La nueva victoria de don Gonzalo de Córdoba, de Lope de Vega",1622,publication date,,
+CL,1,mrebel,Cosme Pérez,El Capitán Medrano,notable work,Per,Media
+CL,2,mrebel,El Capitán Medrano,Cosme Pérez,author,Media,Per
+CL,3,mrebel,Cosme Pérez,El Capitán Medrano,notable work,Per,Media
+CL,1,rebel,El Capitán Medrano,Tomás Fernández de Cabredo,creator,,
+CM,1,mrebel,La infelice Dorotea,Andrés de Claramonte,author,Org,Per
+CM,2,mrebel,Andrés de Claramonte,La infelice Dorotea,notable work,Per,Org
+CM,1,rebel,La infelice Dorotea,Andrés de Claramonte,author  Biblioteca Nacional de Madrid  collection,,
+CM,2,rebel,Andrés de Claramonte,La infelice Dorotea,notable work,,
+CN,1,mrebel,La infelice Dorotea,Andrés de Claramonte,author,Org,Per
+CN,2,mrebel,Andrés de Claramonte,La infelice Dorotea,notable work,Per,Org
+CN,3,mrebel,1621,1620,follows,Time,Time
+CN,4,mrebel,1622,1621,follows,Time,Time
+CN,1,rebel,La infelice Dorotea,Andrés de Claramonte,author  Biblioteca Nacional de Madrid  collection,,
+CO,1,mrebel,La infelice Dorotea,Andrés de Claramonte,author,Media,Per
+CO,2,mrebel,Andrés de Claramonte,La infelice Dorotea,notable work,Per,Media
+CO,3,mrebel,1622,1621,follows,Time,Time
+CO,1,rebel,La infelice Dorotea,Andrés de Claramonte,author,,
+CP,1,mrebel,La infelice Dorotea,Andrés de Claramonte,author,Org,Per
+CP,2,mrebel,Andrés de Claramonte,La infelice Dorotea,notable work,Per,Org
+CP,3,mrebel,1621,1620,follows,Time,Time
+CP,4,mrebel,1622,1621,follows,Time,Time
+CP,1,rebel,La infelice Dorotea,Andrés de Claramonte,author,,
+CQ,1,mrebel,Bien vengas mal,Biblioteca Nacional de Madrid,collection,Org,Loc
+CQ,2,mrebel,Bien vengas mal,Biblioteca Nacional de Madrid,collection,Org,Loc
+CQ,3,mrebel,Antonio de Escamilla,Bien vengas mal,notable work,Per,Org
+CQ,1,rebel,La infelice Dorotea,1987,publication date,,
+CR,1,mrebel,Bien vengas mal,Antonio de Escamilla,author,Concept,Per
+CR,2,mrebel,Bien vengas mal si vienes solo,Antonio de Escamilla,author,Concept,Per
+CR,3,mrebel,Antonio de Escamilla,Bien vengas mal,notable work,Per,Concept
+CR,1,rebel,Bien vengas mal,Antonio de Escamilla,author,,
+CR,2,rebel,Bien vengas mal,Antonio de Escamilla,author,,
+CS,1,mrebel,Bien vengas mal,Antonio de Escamilla,author,Concept,Per
+CS,2,mrebel,Bien vengas mal,Antonio de Escamilla,author,Concept,Per
+CS,3,mrebel,Antonio de Escamilla,Bien vengas mal,notable work,Per,Concept
+CS,1,rebel,Bien vengas mal,Antonio de Escamilla,author,,
+CS,2,rebel,Bien vengas mal,Antonio de Escamilla,author,,
+CT,1,mrebel,Bien vengas mal,Antonio de Escamilla,author,Media,Per
+CT,2,mrebel,Bien vengas mal,Antonio de Escamilla,author,Media,Per
+CT,3,mrebel,Antonio de Escamilla,Bien vengas mal,notable work,Per,Media
+CT,1,rebel,La infelice Dorotea,1987,publication date,,
+CU,1,mrebel,Bien vengas mal,Antonio de Escamilla,author,Media,Per
+CU,2,mrebel,Bien vengas mal,Antonio de Escamilla,author,Media,Per
+CU,3,mrebel,Antonio de Escamilla,Bien vengas mal,notable work,Per,Media
+CU,1,rebel,Bien vengas mal,Antonio de Escamilla,author,,
+CU,2,rebel,Bien vengas mal,Antonio de Escamilla,author,,
+CV,1,mrebel,Bien vengas mal,Antonio de Escamilla,author,Media,Per
+CV,2,mrebel,Antonio de Escamilla,Bien vengas mal,notable work,Per,Media
+CV,1,rebel,Bien vengas mal,Antonio de Escamilla,author,,
+CV,2,rebel,Bien vengas mal,Antonio de Escamilla,author,,
+CW,1,mrebel,Bien vengas mal,Antonio de Escamilla,author,Concept,Per
+CW,2,mrebel,Bien vengas mal,Antonio de Escamilla,author,Concept,Per
+CW,1,rebel,Bien vengas mal,Antonio de Escamilla,author,,
+CW,2,rebel,Bien vengas mal,Antonio de Escamilla,author,,
+CW,3,rebel,Antonio de Escamilla,Bien vengas mal,notable work  Bien vengas mal  notable work,,
+CX,1,mrebel,Bien vengas mal,Antonio de Escamilla,author,Concept,Per
+CX,2,mrebel,Bien vengas mal,Antonio de Escamilla,author,Concept,Per
+CX,1,rebel,Bien vengas mal,Antonio de Escamilla,author  Antonio de Escamilla  author,,
+CX,2,rebel,Bien vengas mal,Antonio de Escamilla,author  Antonio de Escamilla  author,,
+CX,3,rebel,Antonio de Escamilla,Bien vengas mal,notable work  Bien vengas mal  notable work,,
+CX,4,rebel,Antonio de Escamilla,Bien vengas mal,notable work  Bien vengas mal  notable work,,
+CY,1,rebel,Cosme Pérez,Juan Rana,said to be the same as,,
+CY,2,rebel,Juan Rana,Cosme Pérez,said to be the same as  Cosme Pérez  said to be the same as,,
+CY,3,rebel,Cosme Pérez,Juan Rana,said to be the same as,,
+CZ,1,rebel,Juan Rana,Cosme Pérez,said to be the same as  Cosme Pérez  said to be the same as,,
+CZ,2,rebel,Cosme Pérez,Juan Rana,said to be the same as,,
+CZ,3,rebel,Cosme Pérez,Juan Rana,said to be the same as,,
+DA,1,mrebel,Cosme Pérez,Cosme Pérez,different from,Per,Per
+DA,2,mrebel,Cosme Pérez,Cosme Pérez,different from,Per,Per
+DA,1,rebel,Juan Rana,1634,work period (start),,
+DA,2,rebel,Juan Rana,1634,work period (start),,
+DB,1,mrebel,Cosme Pérez,Luis Quiñones de Benavente,author,Per,Per
+DB,2,mrebel,Cosme Pérez,Luis Quiñones de Benavente,author,Per,Per
+DB,3,mrebel,El guardainfante,Luis Quiñones de Benavente,author,Concept,Per
+DB,4,mrebel,El soldado,Luis Quiñones de Benavente,author,Concept,Per
+DB,5,mrebel,1635,1634,follows,Time,Time
+DB,1,rebel,1634,1634,point in time  1634  point in time,,
+DB,2,rebel,1635,1635,point in time,,
+DC,1,mrebel,1635,1634,follows,Time,Time
+DC,2,mrebel,El doctor Juan Rana,Luis Quiñones de Benavente,author,Media,Per
+DC,1,rebel,Juan Rana,Tomás Fernández,performer,,
+DC,2,rebel,Juan Rana,Tomás Fernández,performer,,
+DC,3,rebel,Juan Rana,Tomás Fernández,performer,,
+DD,1,mrebel,El guardainfante,Tomás Fernández,author,Concept,Per
+DD,2,mrebel,El soldado,Tomás Fernández,author,Concept,Per
+DD,3,mrebel,1635,1634,follows,Time,Time
+DD,4,mrebel,El doctor Juan Rana,Tomás Fernández,author,Concept,Per
+DD,1,rebel,1634,1634,point in time  1634  point in time,,
+DD,2,rebel,1635,1635,point in time  1635  point in time,,
+DE,1,rebel,Buen Retiro,Carnaval de 1637,part of,,
+DE,2,rebel,Carnaval de 1637,Buen Retiro,has part,,
+DF,1,rebel,Juan Rana,El doctor Juan Rana de Luis Quiñones de Benavente,said to be the same as,,
+DF,2,rebel,El doctor Juan Rana de Luis Quiñones de Benavente,Juan Rana,said to be the same as  Juan Rana  said to be the same as,,
+DF,3,rebel,Juan Rana,El doctor Juan Rana de Luis Quiñones de Benavente,said to be the same as,,
+DG,1,rebel,Juan Rana,Luis Quiñones de Benavente,father,,
+DG,2,rebel,Juan Rana,Luis Quiñones de Benavente,father,,
+DG,3,rebel,Luis Quiñones de Benavente,Juan Rana,child  Juan Rana  child,,
+DH,1,rebel,El reparto del entremés El doctor Juan Rana,Tomás Fernández,has part,,
+DH,2,rebel,Tomás Fernández,El reparto del entremés El doctor Juan Rana,part of,,
+DI,1,mrebel,El doctor Juan Rana,Luis Quiñones de Benavente,author,Concept,Per
+DI,2,mrebel,Luis Quiñones de Benavente,El doctor Juan Rana,notable work,Per,Concept
+DI,1,rebel,Juan Rana de Luis Quiñones,Benavente,place of birth,,
+DJ,1,mrebel,El doctor Juan Rana,Luis Quiñones de Benavente,author,Concept,Per
+DJ,2,mrebel,Luis Quiñones de Benavente,El doctor Juan Rana,notable work,Per,Concept
+DJ,1,rebel,Juan Rana de Luis Quiñones,Benavente,place of birth,,
+DK,1,mrebel,El doctor Juan Rana,Luis Quiñones de Benavente,author,Concept,Per
+DK,2,mrebel,Luis Quiñones de Benavente,El doctor Juan Rana,notable work,Per,Concept
+DK,1,rebel,1637,1637,point in time  1637  point in time,,
+DL,1,mrebel,CLVIII,Juan Navarro de Espinosa,author,Eve,Per
+DL,2,mrebel,1637,1636,follows,Time,Time
+DL,1,rebel,El entremés El mago,Pedro de la Rosa,has part  Tomás Fernández  has part,,
+DL,2,rebel,Pedro de la Rosa,El entremés El mago,part of,,
+DL,3,rebel,Tomás Fernández,El entremés El mago,part of,,
+DM,1,mrebel,CLVIII,Juan Navarro de Espinosa,author,Dis,Per
+DM,2,mrebel,1637,1636,follows,Time,Time
+DM,3,mrebel,1636,1637,follows,Time,Time
+DM,4,mrebel,1640,1639,follows,Time,Time
+DM,1,rebel,Luis Quiñones,Premio Luis Quiñones,award received,,
+DM,2,rebel,Juan Navarro de Espinosa,Premio Juan Navarro de Espinosa,award received,,
+DN,1,mrebel,Los muertos vivos,M. L. Lobato,discoverer or inventor,Concept,Per
+DN,2,mrebel,El remediador,M. L. Lobato,discoverer or inventor,Concept,Per
+DN,3,mrebel,Quiñones Pipote,El poeta de bailes y el letrado,notable work,Per,Concept
+DN,4,mrebel,El poeta de bailes y el letrado,Quiñones Pipote,author,Concept,Per
+DN,1,rebel,Pedro de la Rosa,compañía trabajaba entonces probablemente,occupation,,
+DN,2,rebel,compañía trabajaba entonces probablemente,Pedro de la Rosa,founded by,,
+DO,1,mrebel,Be,Bergman,author,Org,Per
+DO,2,mrebel,Be,Bergman,author,Org,Per
+DO,3,mrebel,Be,Bergman,author,Org,Per
+DO,4,mrebel,Be,Bergman,author,Org,Per
+DO,5,mrebel,Be,Bergman,author,Org,Per
+DO,6,mrebel,Be,Bergman,author,Org,Per
+DO,7,mrebel,Be,Bergman,author,Org,Per
+DO,8,mrebel,Be,Bergman,author,Org,Per
+DO,9,mrebel,Be,Bergman,author,Org,Per
+DO,10,mrebel,Be,Bergman,author,Org,Per
+DO,11,mrebel,Be,Bergman,author,Org,Per
+DO,12,mrebel,Be,Bergman,author,Org,Per
+DO,13,mrebel,Be,Bergman,author,Org,Per
+DO,14,mrebel,Be,Bergman,author,Org,Per
+DO,15,mrebel,Be,Bergman,author,Org,Per
+DO,16,mrebel,Be,Bergman,author,Org,Per
+DO,17,mrebel,Be,Bergman,author,Org,Per
+DO,18,mrebel,Be,Bergman,author,Org,Per
+DO,19,mrebel,Be,Bergman,author,Org,Per
+DO,20,mrebel,Be,Bergman,author,Org,Per
+DO,21,mrebel,Be,Bergman,author,Org,Per
+DO,22,mrebel,Be,Bergman,author,Org,Per
+DO,23,mrebel,Be,Bergman,author,Org,Per
+DO,24,mrebel,Be,Bergman,author,Org,Per
+DO,1,rebel,Quiñones Pipote,Juan Rana,said to be the same as,,
+DO,2,rebel,Juan Rana,Quiñones Pipote,said to be the same as,,
+DP,1,mrebel,Pedro de la Rosa,Retiro,significant event,Per,Misc
+DP,2,mrebel,Pedro de la Rosa,Retiro,significant event,Per,Misc
+DP,3,mrebel,Pedro de la Rosa,Retiro,significant event,Per,Misc
+DP,1,rebel,Los muertos vivos,Tomás Fernández,has part  Pedro de la Rosa  has part,,
+DP,2,rebel,Tomás Fernández,Los muertos vivos,part of,,
+DP,3,rebel,Pedro de la Rosa,Los muertos vivos,part of,,
+DQ,1,rebel,Los muertos vivos,Tomás Fernández,has part  Pedro de la Rosa  has part,,
+DQ,2,rebel,Tomás Fernández,Los muertos vivos,part of,,
+DQ,3,rebel,Pedro de la Rosa,Los muertos vivos,part of,,
+DR,1,mrebel,Be,Pedro de la Rosa,characters,Org,Per
+DR,2,mrebel,Be,Pedro de la Rosa,characters,Org,Per
+DR,3,mrebel,Be,Pedro de la Rosa,characters,Org,Per
+DR,4,mrebel,Be,Pedro de la Rosa,characters,Org,Per
+DR,5,mrebel,Be,Pedro de la Rosa,characters,Org,Per
+DR,6,mrebel,Be,Pedro de la Rosa,characters,Org,Per
+DR,7,mrebel,Be,Pedro de la Rosa,characters,Org,Per
+DR,8,mrebel,Be,Pedro de la Rosa,characters,Org,Per
+DR,9,mrebel,Be,Pedro de la Rosa,characters,Org,Per
+DR,10,mrebel,Be,Pedro de la Rosa,characters,Org,Per
+DR,11,mrebel,Be,Pedro de la Rosa,characters,Org,Per
+DR,12,mrebel,Be,Pedro de la Rosa,characters,Org,Per
+DR,13,mrebel,Be,Pedro de la Rosa,characters,Org,Per
+DR,14,mrebel,Be,Pedro de la Rosa,characters,Org,Per
+DR,15,mrebel,Be,Pedro de la Rosa,characters,Org,Per
+DR,16,mrebel,Be,Pedro de la Rosa,characters,Org,Per
+DR,17,mrebel,Be,Pedro de la Rosa,characters,Org,Per
+DR,18,mrebel,Be,Pedro de la Rosa,characters,Org,Per
+DR,19,mrebel,Be,Pedro de la Rosa,characters,Org,Per
+DR,20,mrebel,Be,Pedro de la Rosa,characters,Org,Per
+DR,21,mrebel,Be,Pedro de la Rosa,characters,Org,Per
+DR,22,mrebel,Be,Pedro de la Rosa,characters,Org,Per
+DR,23,mrebel,Be,Pedro de la Rosa,characters,Org,Per
+DR,24,mrebel,Be,Pedro de la Rosa,characters,Org,Per
+DR,25,mrebel,Be,Pedro de la Rosa,characters,Org,Per
+DR,26,mrebel,Be,Pedro de la Rosa,characters,Org,Per
+DR,27,mrebel,Be,Pedro de la Rosa,characters,Org,Per
+DR,28,mrebel,Be,Pedro de la Rosa,characters,Org,Per
+DR,29,mrebel,Be,Pedro de la Rosa,characters,Org,Per
+DR,30,mrebel,Be,Pedro de la Rosa,characters,Org,Per
+DR,31,mrebel,Be,Pedro de la Rosa,characters,Org,Per
+DR,32,mrebel,Be,Pedro de la Rosa,characters,Org,Per
+DR,1,rebel,El baile atribuido a Quiñones,Juan Rana,author,,
+DR,2,rebel,El baile atribuido a Quiñones,Juan Rana,author,,
+DR,3,rebel,Juan Rana,El baile atribuido a Quiñones,notable work  El baile atribuido a Quiñones  notable work,,
+DS,1,mrebel,Pedro de la Rosa,Be,described by source,Per,Org
+DS,2,mrebel,Pedro de la Rosa,Be,described by source,Per,Org
+DS,3,mrebel,Pedro de la Rosa,Be,described by source,Per,Org
+DS,1,rebel,El poeta de bailes y el letrado,Antonio de Solís,author,,
+DT,1,mrebel,Juan Rana,Antonio de Solís,creator,Media,Per
+DT,2,mrebel,Juan Rana,Antonio de Solís,creator,Media,Per
+DT,3,mrebel,Los volatines,Antonio de Solís,author,Concept,Per
+DT,4,mrebel,M. L. Lobato,Los volatines,notable work,Per,Concept
+DT,1,rebel,El baile atribuido a Quiñones El poeta de bailes y el letrado,Antonio de Solís,author,,
+DU,1,mrebel,Antonio de Solís,Los volatines,notable work,Per,Concept
+DU,2,mrebel,Los volatines,Antonio de Solís,author,Concept,Per
+DU,1,rebel,El baile atribuido a Quiñones,Juan Rana,cast member  Juan Rana  cast member,,
+DU,2,rebel,El baile atribuido a Quiñones,Juan Rana,cast member  Juan Rana  cast member,,
+DV,1,mrebel,Juan Rana,Antonio de Solís,discoverer or inventor,Media,Per
+DV,2,mrebel,Juan Rana,Antonio de Solís,discoverer or inventor,Media,Per
+DV,3,mrebel,Juan Rana,Antonio de Solís,discoverer or inventor,Media,Per
+DV,1,rebel,El baile atribuido a Quiñones Al cabo de los bailes mil,Antonio de Solís,composer,,
+DW,1,mrebel,Los volatines,Antonio de Solís,discoverer or inventor,Concept,Per
+DW,2,mrebel,Salón del Palacio,Buen Retiro,located in the administrative territorial entity,Loc,Loc
+DW,1,rebel,Juan Rana,Antonio de Solís,influenced by,,
+DW,2,rebel,Juan Rana,Antonio de Solís,influenced by,,
+DX,1,rebel,Juan Rana,1655,work period (start),,
+DX,2,rebel,Juan Rana,1655,work period (start),,
+DY,1,mrebel,95,94,follows,Time,Time
+DY,1,rebel,María Teresa de Austria,Salón del Palacio de Buen Retiro,owner of,,
+DY,2,rebel,Salón del Palacio de Buen Retiro,María Teresa de Austria,owned by,,
+DZ,1,rebel,Juan Rana,1655,work period (start),,
+EA,1,mrebel,Bernarda Manuela,Juan Rana,significant person,Per,Per
+EA,2,mrebel,Mateo Godoy,Juan Rana,significant person,Per,Per
+EA,3,mrebel,95,94,follows,Time,Time
+EA,1,rebel,La Zarzuela,Juan Rana,cast member  Juan Rana  cast member,,
+EB,1,rebel,La Zarzuela,Antonio de Solís,author,,
+EC,1,mrebel,Felipe Próspero,noviembre de 1657,date of birth,Per,Date
+EC,1,rebel,La Zarzuela,1657,publication date,,
+ED,1,mrebel,El retrato de Juan Rana,M. L. Lobato,discoverer or inventor,Concept,Per
+ED,1,rebel,La Zarzuela,1657,publication date,,
+EE,1,mrebel,El retrato de Juan Rana,M. L. Lobato,discoverer or inventor,Concept,Per
+EE,1,rebel,La Zarzuela,1657,publication date,,
+EF,1,mrebel,Felipe Próspero,noviembre de 1657,date of birth,Per,Date
+EF,2,mrebel,Salta en banco,Solís,author,Concept,Per
+EF,3,mrebel,El niño caballero,Solís,author,Concept,Per
+EF,4,mrebel,"Aguardad, supremos dioses",Solís,author,Concept,Per
+EF,5,mrebel,Triunfos de Amor y Fortuna,Solís,author,Concept,Per
+EF,6,mrebel,Solís,Salta en banco,notable work,Per,Concept
+EF,1,rebel,Felipe Próspero,1657,date of birth,,
+EG,1,mrebel,Salta en banco,piezas de teatro,instance of,Concept,Concept
+EG,2,mrebel,El niño caballero,piezas de teatro,instance of,Concept,Concept
+EG,3,mrebel,"Aguardad, supremos dioses",piezas de teatro,instance of,Concept,Concept
+EG,4,mrebel,Triunfos de Amor y Fortuna,piezas de teatro,instance of,Concept,Concept
+EG,1,rebel,Felipe Próspero,1657,date of birth,,
+EH,1,mrebel,Felipe Próspero,noviembre de 1657,date of birth,Per,Date
+EH,2,mrebel,1658,1657,follows,Time,Time
+EH,1,rebel,Felipe Próspero,1657,date of birth,,
+EI,1,mrebel,Triunfos de Amor y Fortuna,Solís,author,Concept,Per
+EI,2,mrebel,Solís,Triunfos de Amor y Fortuna,notable work,Per,Concept
+EI,1,rebel,Las fiestas bacanales,1655,publication date,,
+EJ,1,mrebel,Las fiestas bacanales,piezas de teatro,instance of,Concept,Concept
+EJ,2,mrebel,Salta en banco,Solís,author,Concept,Per
+EJ,3,mrebel,El niño caballero,Solís,author,Concept,Per
+EJ,4,mrebel,"Aguardad, supremos dioses",Solís,author,Concept,Per
+EJ,5,mrebel,Triunfos de Amor y Fortuna,Solís,author,Concept,Per
+EJ,6,mrebel,1658,1657,follows,Time,Time
+EJ,1,rebel,Felipe IV,príncipe,position held,,
+EK,1,mrebel,Las fiestas bacanales,piezas de teatro,instance of,Concept,Concept
+EK,2,mrebel,Salta en banco,piezas de teatro,instance of,Concept,Concept
+EK,3,mrebel,El niño caballero,piezas de teatro,instance of,Concept,Concept
+EK,4,mrebel,"Aguardad, supremos dioses",piezas de teatro,instance of,Concept,Concept
+EK,5,mrebel,Triunfos de Amor y Fortuna,piezas de teatro,instance of,Concept,Concept
+EK,6,mrebel,1658,1657,follows,Time,Time
+EK,1,rebel,Felipe IV,príncipe,position held,,
+EL,1,mrebel,Solís,piezas de teatro,genre,Per,Concept
+EL,2,mrebel,Las fiestas bacanales,piezas de teatro,instance of,Concept,Concept
+EL,3,mrebel,Salta en banco,Solís,author,Concept,Per
+EL,4,mrebel,El niño caballero,Solís,author,Concept,Per
+EL,5,mrebel,"Aguardad, supremos dioses",Solís,author,Concept,Per
+EL,6,mrebel,Triunfos de Amor y Fortuna,Solís,author,Concept,Per
+EL,7,mrebel,1658,1657,follows,Time,Time
+EL,1,rebel,Felipe IV,príncipe,position held,,
+EM,1,mrebel,Salta en banco,Solís,author,Concept,Per
+EM,2,mrebel,El niño caballero,Solís,author,Concept,Per
+EM,3,mrebel,"Aguardad, supremos dioses",Solís,author,Concept,Per
+EM,4,mrebel,Triunfos de Amor y Fortuna,Solís,author,Concept,Per
+EM,5,mrebel,Solís,Salta en banco,notable work,Per,Concept
+EM,1,rebel,Las fiestas bacanales,Solís,located in the administrative territorial entity  Solís  located in the administrative territorial entity,,
+EN,1,mrebel,Triunfos de Amor y Fortuna,Solís,author,Concept,Per
+EN,2,mrebel,Solís,Triunfos de Amor y Fortuna,notable work,Per,Concept
+EN,1,rebel,Felipe IV,rey,position held,,
+EO,1,rebel,Felipe IV,Palacio,place of burial,,
+EP,1,mrebel,[Sebastián de] Prado,[Mateo de] Godoy,sibling,Per,Per
+EP,2,mrebel,[Mateo de] Godoy,[Sebastián de] Prado,sibling,Per,Per
+EP,3,mrebel,María de Prado,[Sebastián de] Prado,sibling,Per,Per
+EP,1,rebel,Felipe IV,Palacio,place of burial,,
+EQ,1,mrebel,Mateo de Godoy,Lo,member of,Per,Org
+EQ,2,mrebel,Mateo de Godoy,Lo,member of,Per,Org
+EQ,3,mrebel,María de Quiñones,Lo,member of,Per,Org
+EQ,4,mrebel,María de Prado,Lo,member of,Per,Org
+EQ,5,mrebel,Manuela Escamilla,Lo,member of,Per,Org
+EQ,1,rebel,Felipe IV,Palacio,place of burial,,
+ER,1,mrebel,[Sebastián de] Prado,[Antonio de] Escamilla,relative,Per,Per
+ER,2,mrebel,[Antonio de] Escamilla,[Alonso de] Olmedo,relative,Per,Per
+ER,3,mrebel,[Alonso de] Olmedo,[Sebastián de] Prado,relative,Per,Per
+ER,4,mrebel,María de Quiñones,[Sebastián de] Prado,relative,Per,Per
+ER,5,mrebel,María de Prado,[Sebastián de] Prado,relative,Per,Per
+ER,6,mrebel,Manuela Escamilla,[Alonso de] Olmedo,relative,Per,Per
+ER,1,rebel,"Bernarda Ramírez, mujer de Prado",22 de diciembre de 1662,date of death,,
+ES,1,mrebel,Bernarda Ramírez,24 de octubre de 1662,date of death,Per,Date
+ES,2,mrebel,Prado,Bernarda Ramírez,spouse,Per,Per
+ES,3,mrebel,Prado,Bernarda Ramírez,spouse,Per,Per
+ES,1,rebel,"Bernarda Ramírez, mujer de Prado",24 de octubre de 1662,date of death,,
+ET,1,mrebel,Mariana de Austria,26 de julio,significant event,Per,Time
+ET,1,rebel,Mariana de Austria,Santa Ana,place of birth,,
+EU,1,mrebel,Mariana de Austria,26 de julio,significant event,Per,Time
+EU,1,rebel,Mariana de Austria,Santa Ana,place of birth,,
+EV,1,mrebel,Mariana de Austria,26 de julio,significant event,Per,Time
+EV,1,rebel,Mariana de Austria,reina,occupation,,
+EW,1,mrebel,Sáez Raposo,Juan Rana y el teatro cómico breve,notable work,Per,Concept
+EW,2,mrebel,Juan Rana y el teatro cómico breve,Sáez Raposo,author,Concept,Per
+EW,1,rebel,Juan Rana and el teatro cómico breve,Sáez Raposo,author,,
+EW,2,rebel,Juan Rana and el teatro cómico breve,Sáez Raposo,author,,
+EX,1,mrebel,El desdén vengado,Lope de Vega,author,Concept,Per
+EX,2,mrebel,Lope de Vega,El desdén vengado,notable work,Per,Concept
+EX,1,rebel,"El desdén vengado, de Lope de Vega",1622,publication date,,
+EY,1,mrebel,El desdén vengado,Lope de Vega,author,Concept,Per
+EY,2,mrebel,Lope de Vega,El desdén vengado,notable work,Per,Concept
+EY,1,rebel,El desdén vengado,Lope de Vega,author,,
+EZ,1,mrebel,El desdén vengado,Lope de Vega,author,Concept,Per
+EZ,2,mrebel,Lope de Vega,El desdén vengado,notable work,Per,Concept
+EZ,1,rebel,Juan Bautista Valenciano,1622,work period (start),,
+FA,1,mrebel,El desdén vengado,Lope de Vega,author,Concept,Per
+FA,2,mrebel,Lope de Vega,El desdén vengado,notable work,Per,Concept
+FA,1,rebel,Juan Bautista Valenciano,1622,work period (start),,
+FA,2,rebel,Juan Bautista Valenciano,1622,work period (start),,
+FB,1,mrebel,El desdén vengado,Lope de Vega,author,Concept,Per
+FB,2,mrebel,Lope de Vega,El desdén vengado,notable work,Per,Concept
+FB,1,rebel,El desdén vengado,Lope de Vega,composer,,
+FC,1,mrebel,El desdén vengado,Lope de Vega,author,Concept,Per
+FC,2,mrebel,Lope de Vega,El desdén vengado,notable work,Per,Concept
+FC,3,mrebel,Villa de Madrid,Madrid,located in the administrative territorial entity,Loc,Loc
+FC,1,rebel,El desdén vengado,Lope de Vega,creator,,
+FC,2,rebel,Lope de Vega,El desdén vengado,notable work,,
+FD,1,mrebel,El desdén vengado,Lope de Vega,author,Concept,Per
+FD,2,mrebel,Lope de Vega,El desdén vengado,notable work,Per,Concept
+FD,3,mrebel,Villa de Madrid,Madrid,located in the administrative territorial entity,Loc,Loc
+FD,1,rebel,El desdén vengado,Lope de Vega,composer,,
+FD,2,rebel,Lope de Vega,El desdén vengado,notable work,,
+FE,1,mrebel,El desdén vengado,Lope de Vega,author,Concept,Per
+FE,2,mrebel,Lope de Vega,El desdén vengado,notable work,Per,Concept
+FE,3,mrebel,Villa de Madrid,Madrid,located in the administrative territorial entity,Loc,Loc
+FE,1,rebel,El desdén vengado,Lope de Vega,composer,,
+FE,2,rebel,Lope de Vega,El desdén vengado,notable work,,
+FF,1,mrebel,Villa de Madrid,Madrid,located in the administrative territorial entity,Loc,Loc
+FF,1,rebel,Corpus de este año,Sevilla,located in the administrative territorial entity,,
+FG,1,mrebel,Villa de Madrid,Madrid,located in the administrative territorial entity,Loc,Loc
+FG,1,rebel,Corpus de este año,Sevilla,located in the administrative territorial entity,,
+FH,1,mrebel,Villa de Madrid,Madrid,located in the administrative territorial entity,Loc,Loc
+FH,1,rebel,Corpus de este año,Sevilla,located in the administrative territorial entity,,
+FI,1,mrebel,Villa de Madrid,Madrid,located in the administrative territorial entity,Loc,Loc
+FI,1,rebel,Antonio de Prado,Madrid,work location,,
+FJ,1,mrebel,Villa de Madrid,Madrid,located in the administrative territorial entity,Loc,Loc
+FJ,2,mrebel,Parroquia de San Sebastián,Madrid,located in the administrative territorial entity,Loc,Loc
+FJ,3,mrebel,Calle del Niño,Madrid,located in the administrative territorial entity,Concept,Loc
+FJ,1,rebel,Cofradía de Nuestra Señora de la Novena,Madrid,located in the administrative territorial entity,,
+FJ,2,rebel,Cofradía de Nuestra Señora de la Novena,Madrid,located in the administrative territorial entity,,
+FK,1,mrebel,Villa de Madrid,Madrid,located in the administrative territorial entity,Loc,Loc
+FK,2,mrebel,Parroquia de San Sebastián,Madrid,located in the administrative territorial entity,Loc,Loc
+FK,3,mrebel,Calle del Niño,Madrid,located in the administrative territorial entity,Concept,Loc
+FK,1,rebel,Cofradía de Nuestra Señora de la Novena,Madrid,located in the administrative territorial entity,,
+FK,2,rebel,Cofradía de Nuestra Señora de la Novena,Madrid,located in the administrative territorial entity,,
+FL,1,mrebel,Parroquia de San Sebastián,Madrid,located in the administrative territorial entity,Loc,Loc
+FL,2,mrebel,Calle del Niño,Madrid,located in the administrative territorial entity,Concept,Loc
+FL,1,rebel,Parroquia de San Sebastián de Madrid,Madrid,located in the administrative territorial entity,,
+FM,1,mrebel,calle de las Comedias,Valladolid,located in the administrative territorial entity,Concept,Loc
+FM,2,mrebel,iglesia de Nuestra Señora de San Lorenzo,Valladolid,located in the administrative territorial entity,Loc,Loc
+FM,1,rebel,Antonio de Vitoria,Josefa Román,sibling,,
+FM,2,rebel,Josefa Román,Antonio de Vitoria,sibling,,
+FN,1,mrebel,calle de las Comedias,Valladolid,located in the administrative territorial entity,Concept,Loc
+FN,2,mrebel,iglesia de Nuestra Señora de San Lorenzo,Valladolid,located in the administrative territorial entity,Loc,Loc
+FN,1,rebel,Antonio de Vitoria,Josefa Román,spouse,,
+FN,2,rebel,Josefa Román,Antonio de Vitoria,spouse,,
+FO,1,mrebel,Cosme Pérez,Cofradía de Nuestra Señora de la Novena,part of,Per,Concept
+FO,2,mrebel,Cosme Pérez,Cofradía de Nuestra Señora de la Novena,part of,Per,Concept
+FO,3,mrebel,Cosme Pérez,Cofradía de Nuestra Señora de la Novena,part of,Per,Concept
+FO,1,rebel,Cofradía de Nuestra Señora de la Novena,Madrid,located in the administrative territorial entity,,
+FP,1,mrebel,introducción de la entrada,Luis Quiñones de Benavente,author,Concept,Per
+FP,1,rebel,Luis Quiñones de Benavente,escándalo,occupation,,
+FQ,1,mrebel,introducción de la entrada,Luis Quiñones de Benavente,author,Concept,Per
+FQ,1,rebel,Luis Quiñones de Benavente,escándalo,occupation,,
+FR,1,rebel,Luis Quiñones de Benavente,capilla real,instrument,,
+FS,1,rebel,llamado Valdés,capilla real,instrument,,
+FT,1,mrebel,introducción de la entrada,Luis Quiñones de Benavente,author,Concept,Per
+FT,1,rebel,Luis Quiñones de Benavente,capilla real,instrument,,
+FU,1,mrebel,introducción de la entrada,Luis Quiñones de Benavente,discoverer or inventor,Concept,Per
+FU,1,rebel,Luis Quiñones de Benavente,capilla real,instrument,,
+FV,1,mrebel,Pedro de la Rosa,clavario del Hospital General de Valencia,member of,Per,Concept
+FV,2,mrebel,clavario del Hospital General de Valencia,Valencia,located in the administrative territorial entity,Concept,Loc
+FV,3,mrebel,clavario del Hospital General de Valencia,Valencia,located in the administrative territorial entity,Concept,Loc
+FV,4,mrebel,Juan Rana,clavario del Hospital General de Valencia,member of,Per,Concept
+FV,5,mrebel,Juan Rana,clavario del Hospital General de Valencia,member of,Per,Concept
+FV,1,rebel,Madrid,Valencia,twinned administrative body  Valencia  twinned administrative body  Valencia  twinned administrative body,,
+FV,2,rebel,Valencia,Madrid,twinned administrative body,,
+FV,3,rebel,Valencia,Madrid,twinned administrative body,,
+FW,1,mrebel,Hospital General de Valencia,Valencia,located in the administrative territorial entity,Loc,Loc
+FW,2,mrebel,Hospital General de Valencia,Valencia,located in the administrative territorial entity,Loc,Loc
+FW,3,mrebel,Juan Rana,Valencia,place of birth,Per,Loc
+FW,4,mrebel,Pedro de la Rosa,Valencia,place of birth,Per,Loc
+FW,5,mrebel,Juan Rana,Valencia,place of birth,Per,Loc
+FW,1,rebel,Hospital General de Valencia,Valencia,located in the administrative territorial entity  Valencia  located in the administrative territorial entity  Valencia  located in the administrative territorial entity,,
+FW,2,rebel,Hospital General de Valencia,Valencia,located in the administrative territorial entity  Valencia  located in the administrative territorial entity  Valencia  located in the administrative territorial entity,,
+FX,1,mrebel,Hospital General de Valencia,Valencia,located in the administrative territorial entity,Loc,Loc
+FX,2,mrebel,Sevilla,Málaga,twinned administrative body,Loc,Loc
+FX,3,mrebel,Málaga,Sevilla,twinned administrative body,Loc,Loc
+FX,1,rebel,Hospital General de Valencia,Valencia,located in the administrative territorial entity  Valencia  located in the administrative territorial entity,,
+FY,1,rebel,Málaga,Valencia,twinned administrative body,,
+FY,2,rebel,Valencia,Málaga,twinned administrative body,,
+FZ,1,mrebel,Cosme Pérez,Cofradía de Nuestra Señora de la Novena,member of,Per,Concept
+FZ,2,mrebel,Cosme Pérez,Cofradía de Nuestra Señora de la Novena,member of,Per,Concept
+FZ,3,mrebel,Cosme Pérez,Cofradía de Nuestra Señora de la Novena,member of,Per,Concept
+FZ,4,mrebel,Cosme Pérez,Cofradía de Nuestra Señora de la Novena,member of,Per,Concept
+FZ,1,rebel,Málaga,Valencia,twinned administrative body,,
+FZ,2,rebel,Valencia,Málaga,twinned administrative body,,
+GA,1,mrebel,Cosme Pérez,Cofradía de Nuestra Señora de la Novena,member of,Per,Concept
+GA,2,mrebel,Cosme Pérez,Cofradía de Nuestra Señora de la Novena,member of,Per,Concept
+GA,3,mrebel,Cosme Pérez,Cofradía de Nuestra Señora de la Novena,member of,Per,Concept
+GA,4,mrebel,Cosme Pérez,Cofradía de Nuestra Señora de la Novena,member of,Per,Concept
+GA,1,rebel,Málaga,Valencia,twinned administrative body,,
+GA,2,rebel,Valencia,Málaga,twinned administrative body,,
+GB,1,rebel,Cofradía de Nuestra Señora de la Novena,compañía de Pedro de la Rosa,has part,,
+GB,2,rebel,compañía de Pedro de la Rosa,Cofradía de Nuestra Señora de la Novena,part of,,
+GC,1,mrebel,Cofradía de Nuestra Señora de la Novena,Cosme Pérez,discoverer or inventor,Concept,Per
+GC,2,mrebel,fiestas del Corpus,Cosme Pérez,discoverer or inventor,Concept,Per
+GC,3,mrebel,fiestas del Corpus,Cosme Pérez,discoverer or inventor,Concept,Per
+GC,1,rebel,Cofradía de Nuestra Señora de la Novena procedente de la compañía de Pedro de la Rosa,Valencia,located in the administrative territorial entity,,
+GD,1,mrebel,fiestas del Corpus,Madrid,located in the administrative territorial entity,Time,Loc
+GD,2,mrebel,Antonio de Prado,fiestas del Corpus,significant event,Per,Time
+GD,3,mrebel,Pedro de la Rosa,fiestas del Corpus,significant event,Per,Time
+GD,4,mrebel,fiestas del Corpus,Madrid,located in the administrative territorial entity,Time,Loc
+GD,1,rebel,Cofradía de Nuestra Señora de la Novena procedente de la compañía de Pedro de la Rosa,Antonio de Prado,has part  Pedro de la Rosa  has part,,
+GD,2,rebel,Antonio de Prado,Cofradía de Nuestra Señora de la Novena procedente de la compañía de Pedro de la Rosa,part of,,
+GE,1,mrebel,Cosme Pérez,Antonio de Prado,relative,Per,Per
+GE,2,mrebel,Antonio de Prado,Cosme Pérez,relative,Per,Per
+GE,3,mrebel,"Antonio [sic, por ""Pedro"") de la Rosa",Cosme Pérez,relative,Per,Per
+GE,1,rebel,Antonio de Prado,Madrid,place of birth,,
+GF,1,mrebel,Cosme Pérez,Antonio de Prado,relative,Per,Per
+GF,2,mrebel,Antonio de Prado,Cosme Pérez,relative,Per,Per
+GF,3,mrebel,"Antonio [sic, por ""Pedro"") de la Rosa",Cosme Pérez,relative,Per,Per
+GF,1,rebel,Cosme Pérez,autores de comedias,occupation  autores de comedias  occupation,,
+GG,1,mrebel,Antonio de Prado,"Antonio [sic, por ""Pedro""] de la Rosa",sibling,Per,Per
+GG,2,mrebel,"Antonio [sic, por ""Pedro""] de la Rosa",Antonio de Prado,sibling,Per,Per
+GG,1,rebel,fiestas del Corpus,Madrid,located in the administrative territorial entity,,
+GH,1,mrebel,Catalina de Nicolás y la Rosa,Pedro de la Rosa,spouse,Per,Per
+GH,2,mrebel,Pedro de la Rosa,Catalina de Nicolás y la Rosa,spouse,Per,Per
+GH,1,rebel,Juan Rana,autores de comedias,occupation,,
+GI,1,mrebel,Catalina de Nicolás y la Rosa,Pedro de la Rosa,spouse,Per,Per
+GI,2,mrebel,Pedro de la Rosa,Catalina de Nicolás y la Rosa,spouse,Per,Per
+GI,1,rebel,Catalina de Nicolás,Pedro de la Rosa,spouse  Cosme Pérez  spouse,,
+GI,2,rebel,Pedro de la Rosa,Catalina de Nicolás,spouse,,
+GI,3,rebel,Cosme Pérez,Catalina de Nicolás,spouse,,
+GJ,1,mrebel,Catalina de Nicolás y la Rosa,Pedro de la Rosa,spouse,Per,Per
+GJ,2,mrebel,Pedro de la Rosa,Catalina de Nicolás y la Rosa,spouse,Per,Per
+GJ,3,mrebel,Cosme Pérez,Catalina de Nicolás y la Rosa,unmarried partner,Per,Per
+GJ,1,rebel,Catalina de Nicolás,Pedro de la Rosa,spouse,,
+GJ,2,rebel,Pedro de la Rosa,Catalina de Nicolás,spouse,,
+GK,1,rebel,Pedro de la Rosa,1644,date of birth,,
+GK,2,rebel,Pedro de la Rosa,1644,date of birth,,
+GL,1,rebel,Pedro de la Rosa,1644,date of birth,,
+GL,2,rebel,Pedro de la Rosa,1644,date of birth,,
+GM,1,rebel,Pedro de la Rosa,1644,date of birth,,
+GM,2,rebel,Pedro de la Rosa,1644,date of birth,,
+GN,1,rebel,1644,1644,point in time,,
+GO,1,rebel,1644,1644,point in time,,
+GP,1,mrebel,autos del Corpus,Pedro de la Rosa,discoverer or inventor,Concept,Per
+GP,1,rebel,Pedro de la Rosa,1644,date of death,,
+GP,2,rebel,Pedro de la Rosa,1644,date of death,,
+GQ,1,rebel,1644,1644,point in time,,
+GR,1,mrebel,noticia del 19 de marzo,Francisco de Guzmán y Morales,discoverer or inventor,Concept,Per
+GR,2,mrebel,Cofradía de Nuestra Señora de la Novena,Francisco de Guzmán y Morales,discoverer or inventor,Concept,Per
+GR,1,rebel,Pedro Ortiz de Urbina,tesorero de la Cofradía de Nuestra Señora de la Novena,position held,,
+GS,1,mrebel,noticia del 19 de marzo,Cosme Pérez,author,Concept,Per
+GS,2,mrebel,Francisco de Guzmán y Morales,noticia del 19 de marzo,notable work,Per,Concept
+GS,3,mrebel,Cofradía de Nuestra Señora de la Novena,Francisco de Guzmán y Morales,author,Concept,Per
+GS,1,rebel,Pedro Ortiz de Urbina,tesorero de la Cofradía de Nuestra Señora de la Novena,position held,,
+GT,1,mrebel,noticia del 19 de marzo,Cosme Pérez,discoverer or inventor,Concept,Per
+GT,2,mrebel,Cofradía de Nuestra Señora de la Novena,Cosme Pérez,discoverer or inventor,Concept,Per
+GT,1,rebel,Pedro Ortiz de Urbina,tesorero de la Cofradía de Nuestra Señora de la Novena,position held,,
+GU,1,mrebel,Alonso de Paz,Manuela Bernabela,spouse,Per,Per
+GU,2,mrebel,Manuela Bernabela,Alonso de Paz,spouse,Per,Per
+GU,1,rebel,Alonso de Paz,Madrid,place of birth  Madrid  place of birth,,
+GV,1,mrebel,Alonso de Paz,Manuela Bernabela,spouse,Per,Per
+GV,2,mrebel,Manuela Bernabela,Alonso de Paz,spouse,Per,Per
+GV,1,rebel,Alonso de Paz,Madrid,place of birth  Madrid  place of birth,,
+GW,1,mrebel,Alonso de Paz,Manuela Bernabela,spouse,Per,Per
+GW,2,mrebel,Manuela Bernabela,Alonso de Paz,spouse,Per,Per
+GW,1,rebel,Alonso de Paz,Madrid,place of birth,,
+GX,1,mrebel,Alonso de Paz,Manuela Bernabela,spouse,Per,Per
+GX,2,mrebel,Manuela Bernabela,Alonso de Paz,spouse,Per,Per
+GX,1,rebel,Alonso de Paz,Manuela Bernabela,spouse,,
+GX,2,rebel,Manuela Bernabela,Alonso de Paz,spouse,,
+GY,1,mrebel,Alonso de Paz,Manuela Bernabela,spouse,Per,Per
+GY,2,mrebel,Manuela Bernabela,Alonso de Paz,spouse,Per,Per
+GY,3,mrebel,Antonio Marín,Manuela Bernabela,spouse,Per,Per
+GY,4,mrebel,Antonio Marín,Manuela Bernabela,spouse,Per,Per
+GY,5,mrebel,Antonio Marín,Manuela Bernabela,spouse,Per,Per
+GY,6,mrebel,Antonio Marín,Manuela Bernabela,spouse,Per,Per
+GY,1,rebel,Antonio Marín,Madrid,place of death,,
+GY,2,rebel,Antonio Marín,Madrid,place of death,,
+GY,3,rebel,Antonio Marín,Madrid,place of death,,
+GZ,1,mrebel,Alonso de Paz,Manuela Bernabela,spouse,Per,Per
+GZ,2,mrebel,Manuela Bernabela,Alonso de Paz,spouse,Per,Per
+GZ,3,mrebel,Alonso de Paz,Manuela Bernabela,spouse,Per,Per
+GZ,4,mrebel,Alonso de Paz,Manuela Bernabela,spouse,Per,Per
+GZ,1,rebel,Alonso de Paz,Manuela Bernabela,spouse,,
+GZ,2,rebel,Manuela Bernabela,Alonso de Paz,spouse,,
+HA,1,mrebel,Antonio Marín,Alonso de Paz,significant person,Per,Per
+HA,2,mrebel,Alonso de Paz,Antonio Marín,significant person,Per,Per
+HA,3,mrebel,Alonso de Paz,Antonio Marín,significant person,Per,Per
+HA,4,mrebel,Antonio Marín,Alonso de Paz,significant person,Per,Per
+HA,5,mrebel,Pedro de la Rosa,Alonso de Paz,significant person,Per,Per
+HA,1,rebel,Pedro de la Rosa,comedias,genre,,
+HA,2,rebel,Alonso de Paz,comedias,genre,,
+HB,1,mrebel,Antonio Marín,Alonso de Paz,significant person,Per,Per
+HB,2,mrebel,Alonso de Paz,Antonio Marín,significant person,Per,Per
+HB,3,mrebel,Antonio Marín,Alonso de Paz,significant person,Per,Per
+HB,4,mrebel,Pedro de la Rosa,Alonso de Paz,significant person,Per,Per
+HB,1,rebel,Pedro de la Rosa,comedias,genre,,
+HC,1,rebel,Pedro de la Rosa,comedias,genre,,
+HD,1,rebel,Zaragoza,Madrid,twinned administrative body  Zaragoza  twinned administrative body,,
+HD,2,rebel,Madrid,Zaragoza,twinned administrative body  Zaragoza  twinned administrative body,,
+HD,3,rebel,Zaragoza,Madrid,twinned administrative body  Madrid  twinned administrative body,,
+HD,4,rebel,Madrid,Zaragoza,twinned administrative body  Zaragoza  twinned administrative body,,
+HE,1,mrebel,Cosme Pérez,Cosme Pérez,different from,Per,Per
+HE,2,mrebel,Cosme Pérez,Cosme Pérez,different from,Per,Per
+HE,3,mrebel,Cosme Pérez,Cosme Pérez,different from,Per,Per
+HE,4,mrebel,Cosme Pérez,Cosme Pérez,different from,Per,Per
+HE,1,rebel,Zaragoza,Aragón,capital of,,
+HE,2,rebel,Zaragoza,Aragón,capital of,,
+HE,3,rebel,Aragón,Zaragoza,capital  Zaragoza  capital,,
+HF,1,rebel,Quaresma,Madrid,located in the administrative territorial entity,,
+HG,1,rebel,Aragón,Madrid,capital,,
+HG,2,rebel,Madrid,Aragón,capital of,,
+HH,1,rebel,Quaresma,Madrid,located in the administrative territorial entity,,
+HI,1,rebel,GH1,Pedro de la Rosa,author,,
+HI,2,rebel,GH,Pedro de la Rosa,author,,
+HI,3,rebel,227,Pedro de la Rosa,author,,
+HI,4,rebel,194,Pedro de la Rosa,author,,
+HI,5,rebel,121-22,Pedro de la Rosa,author,,
+HJ,1,mrebel,Convento de San José de Malagón,Madrid,located in the administrative territorial entity,Loc,Loc
+HJ,1,rebel,Convento de San José de Malagón,Madrid,located in the administrative territorial entity,,
+HK,1,mrebel,Mariana de Austria,Cosme Pérez,significant person,Per,Per
+HK,2,mrebel,Mariana de Austria,Cosme Pérez,significant person,Per,Per
+HK,1,rebel,Juan Rana,Reina Nuestra Señora Doña Mariana de Austria,spouse,,
+HK,2,rebel,Reina Nuestra Señora Doña Mariana de Austria,Juan Rana,spouse  Madrid  place of birth  Juan Rana  spouse,,
+HK,3,rebel,Juan Rana,Reina Nuestra Señora Doña Mariana de Austria,spouse,,
+HL,1,mrebel,Juan Rana,Andrés Ferrer,discoverer or inventor,Per,Per
+HL,2,mrebel,Juan Rana,Andrés Ferrer,discoverer or inventor,Per,Per
+HL,1,rebel,Felipe IV,Luisa Enríquez Manrique,spouse,,
+HL,2,rebel,Luisa Enríquez Manrique,Felipe IV,spouse,,
+HM,1,rebel,Felipe IV,Luisa Enríquez Manrique,spouse,,
+HM,2,rebel,Luisa Enríquez Manrique,Felipe IV,spouse,,
+HN,1,mrebel,Luisa Enríquez Manrique,Felipe IV,significant person,Per,Per
+HN,1,rebel,Felipe IV,Luisa Enríquez Manrique,spouse,,
+HN,2,rebel,Luisa Enríquez Manrique,Felipe IV,spouse,,
+HO,1,mrebel,Escorial,Madrid,located in the administrative territorial entity,Loc,Loc
+HO,1,rebel,Felipe IV,Luisa Enríquez Manrique,spouse,,
+HO,2,rebel,Luisa Enríquez Manrique,Felipe IV,spouse,,
+HP,1,mrebel,Escorial,Madrid,located in the administrative territorial entity,Loc,Loc
+HP,1,rebel,Felipe IV,Luisa Enríquez Manrique,spouse,,
+HP,2,rebel,Luisa Enríquez Manrique,Felipe IV,spouse,,
+HQ,1,rebel,Antonio García de Prado,Madrid,work location,,
+HR,1,rebel,Corpus,Madrid,located in the administrative territorial entity,,
+HS,1,mrebel,Cosme Pérez 'Juan Rana',L. Lobato,significant person,Per,Per
+HS,2,mrebel,Antonio de Prado,Cosme Pérez 'Juan Rana',significant person,Per,Per
+HS,3,mrebel,José Antonio de Prado,Cosme Pérez 'Juan Rana',significant person,Per,Per
+HS,1,rebel,José Antonio de Prado,1635,date of birth,,
+HT,1,mrebel,Cosme Pérez 'Juan Rana',Cosme Pérez,author,Per,Per
+HT,2,mrebel,Cosme Pérez 'Juan Rana',Cosme Pérez 'Juan Rana',author,Per,Per
+HT,1,rebel,José Antonio de Prado,1635,date of birth,,
+HU,1,mrebel,Antonio de Prado,Cruzada Villaamil,member of,Per,Org
+HU,2,mrebel,Antonio de Prado,Cruzada Villaamil,member of,Per,Org
+HU,3,mrebel,Antonio de Prado,Cruzada Villaamil,member of,Per,Org
+HU,4,mrebel,Antonio de Prado,Cruzada Villaamil,member of,Per,Org
+HU,5,mrebel,Cosme Pérez,Cruzada Villaamil,member of,Per,Org
+HU,6,mrebel,Antonio García de Prado,Cruzada Villaamil,member of,Per,Org
+HU,1,rebel,José Antonio de Prado,1635,date of birth,,
+HV,1,mrebel,Antonio de Prado,Cruzada Villaamil,member of,Per,Org
+HV,2,mrebel,José Antonio de Prado,Cruzada Villaamil,member of,Per,Org
+HV,3,mrebel,Antonio de Prado,Cruzada Villaamil,member of,Per,Org
+HV,4,mrebel,Antonio de Prado,Cruzada Villaamil,member of,Per,Org
+HV,5,mrebel,Cosme Pérez,Cruzada Villaamil,member of,Per,Org
+HV,6,mrebel,Antonio García de Prado,Cruzada Villaamil,member of,Per,Org
+HV,1,rebel,José Antonio de Prado,1635,date of birth,,
+HW,1,rebel,José Antonio de Prado,1635,date of birth,,
+HX,1,mrebel,Antonio de Prado,Cruzada Villaamil,member of,Per,Org
+HX,2,mrebel,Antonio de Prado,Cruzada Villaamil,member of,Per,Org
+HX,3,mrebel,Antonio de Prado,Cruzada Villaamil,member of,Per,Org
+HX,4,mrebel,Antonio de Prado,Cruzada Villaamil,member of,Per,Org
+HX,5,mrebel,Antonio García de Prado,Cruzada Villaamil,member of,Per,Org
+HX,1,rebel,José Antonio de Prado,1635,date of birth,,
+HY,1,mrebel,Antonio de Prado,Cruzada Villaamil,member of,Per,Org
+HY,2,mrebel,Antonio García de Prado,Cruzada Villaamil,member of,Per,Org
+HY,1,rebel,Antonio de Prado,Antonio García de Prado,child,,
+HY,2,rebel,Antonio García de Prado,Antonio de Prado,father,,
+HZ,1,mrebel,"Honrar bien, que Dios es Dios",Antonio de Prado,author,Concept,Per
+HZ,2,mrebel,El niño de Santa Bárbara,Antonio de Prado,author,Concept,Per
+HZ,3,mrebel,"Obrar bien, que Dios es Dios",Antonio de Prado,author,Concept,Per
+HZ,4,mrebel,El niño de Santa Barbara,Antonio de Prado,author,Concept,Per
+HZ,5,mrebel,Antonio de Prado,"Honrar bien, que Dios es Dios",notable work,Per,Concept
+HZ,1,rebel,Cofradía de Nuestra Señora de la Novena,Madrid,located in the administrative territorial entity,,
+IA,1,mrebel,"Honrar bien, que Dios es Dios",Antonio de Prado,author,Concept,Per
+IA,2,mrebel,El niño de Santa Bárbara,Antonio de Prado,author,Concept,Per
+IA,3,mrebel,"Obrar bien, que Dios es Dios",Antonio de Prado,author,Concept,Per
+IA,4,mrebel,El niño de Santa Barbara,Antonio de Prado,author,Concept,Per
+IA,5,mrebel,Antonio de Prado,"Honrar bien, que Dios es Dios",notable work,Per,Concept
+IA,1,rebel,Cofradía de Nuestra Señora de la Novena,Madrid,located in the administrative territorial entity,,
+IB,1,mrebel,Sitio del Buen Retiro,Sitio del Buen Retiro,part of,Concept,Concept
+IB,2,mrebel,Sitio del Buen Retiro,Sitio del Buen Retiro,part of,Concept,Concept
+IB,3,mrebel,Sitio del Buen Retiro,Sitio del Buen Retiro,part of,Concept,Concept
+IB,4,mrebel,Sitio del Buen Retiro,Sitio del Buen Retiro,part of,Concept,Concept
+IB,5,mrebel,Sitio del Buen Retiro,Sitio del Buen Retiro,part of,Concept,Concept
+IB,6,mrebel,Sitio del Buen Retiro,Sitio del Buen Retiro,part of,Concept,Concept
+IB,7,mrebel,Sitio del Buen Retiro,Sitio del Buen Retiro,part of,Concept,Concept
+IB,8,mrebel,Sitio del Buen Retiro,Sitio del Buen Retiro,part of,Concept,Concept
+IB,9,mrebel,Sitio del Buen Retiro,Sitio del Buen Retiro,part of,Concept,Concept
+IB,10,mrebel,Sitio del Buen Retiro,Sitio del Buen Retiro,part of,Concept,Concept
+IB,11,mrebel,Sitio del Buen Retiro,Sitio del Buen Retiro,part of,Concept,Concept
+IB,12,mrebel,Sitio del Buen Retiro,Sitio del Buen Retiro,part of,Concept,Concept
+IB,13,mrebel,Sitio del Buen Retiro,Sitio del Buen Retiro,part of,Concept,Concept
+IB,14,mrebel,Sitio del Buen Retiro,Sitio del Buen Retiro,part of,Concept,Concept
+IB,1,rebel,Reina Simón de Alcántara,Mariana de Austria,child  Margarita  child,,
+IB,2,rebel,Mariana de Austria,Reina Simón de Alcántara,mother  Margarita  sibling,,
+IB,3,rebel,Margarita,Reina Simón de Alcántara,mother  Mariana de Austria  sibling,,
+IC,1,mrebel,93,92,follows,Time,Time
+IC,2,mrebel,Andrómeda y Perseo,Calderón,author,Media,Per
+IC,3,mrebel,Calderón,Andrómeda y Perseo,notable work,Per,Media
+IC,1,rebel,Juan González,José González,father,,
+IC,2,rebel,José González,Juan González,child,,
+ID,1,mrebel,Coliseo del Buen Retiro,Madrid,located in the administrative territorial entity,Loc,Loc
+ID,2,mrebel,93,92,follows,Time,Time
+ID,1,rebel,Coliseo del Buen Retiro,Madrid,located in the administrative territorial entity,,
+IE,1,mrebel,93,92,follows,Time,Time
+IE,2,mrebel,Andrómeda y Perseo,Calderón,author,Concept,Per
+IE,3,mrebel,Calderón,Andrómeda y Perseo,notable work,Per,Concept
+IE,4,mrebel,F. Sáez Raposo,Juan Rana y el teatro cómico breve del siglo XVII,notable work,Per,Concept
+IE,5,mrebel,Juan Rana y el teatro cómico breve del siglo XVII,F. Sáez Raposo,author,Concept,Per
+IE,1,rebel,Coliseo del Buen Retiro,Madrid,located in the administrative territorial entity,,
+IF,1,mrebel,93,92,follows,Time,Time
+IF,2,mrebel,Cosme Pérez,fiestas del Corpus de Madrid,significant event,Per,Time
+IF,3,mrebel,Cosme Pérez,fiestas del Corpus de Madrid,significant event,Per,Time
+IF,4,mrebel,Cosme Pérez,fiestas del Corpus de Madrid,significant event,Per,Time
+IF,5,mrebel,81,80,follows,Time,Time
+IF,1,rebel,Andrómeda,Perseo,spouse,,
+IF,2,rebel,Perseo,Andrómeda,spouse,,
+IG,1,mrebel,Cosme Pérez,Juan Rana,author,Per,Per
+IG,2,mrebel,Juan Rana,Cosme Pérez,author,Per,Per
+IG,3,mrebel,Cosme Pérez,Juan Rana,author,Per,Per
+IG,4,mrebel,Juan Rana,Cosme Pérez,author,Per,Per
+IG,1,rebel,Corpus de Madrid,fiestas del Corpus de este año,has part,,
+IG,2,rebel,fiestas del Corpus de este año,Corpus de Madrid,part of,,
+IH,1,mrebel,Cosme Pérez,Juan Rana,significant person,Per,Per
+IH,2,mrebel,Cosme Pérez,Juan Rana,significant person,Per,Per
+IH,3,mrebel,Juan Rana,Cosme Pérez,significant person,Per,Per
+IH,4,mrebel,Cosme Pérez,Juan Rana,significant person,Per,Per
+IH,1,rebel,Cosme Pérez,Reyna nuestra señora,spouse  Francisca María Pérez  child,,
+IH,2,rebel,Reyna nuestra señora,Cosme Pérez,spouse  Francisca María Pérez  child,,
+IH,3,rebel,Francisca María Pérez,Cosme Pérez,father  Reyna nuestra señora  mother,,
+II,1,rebel,Cosme Pérez,Reyna nuestra señora,spouse  Francisca María Pérez  child,,
+II,2,rebel,Reyna nuestra señora,Cosme Pérez,spouse  Francisca María Pérez  child,,
+II,3,rebel,Francisca María Pérez,Cosme Pérez,father  Reyna nuestra señora  mother,,
+IJ,1,mrebel,Cosme Pérez,Juan Rana,significant person,Per,Per
+IJ,2,mrebel,Cosme Pérez,Juan Rana,significant person,Per,Per
+IJ,3,mrebel,Juan Rana,Cosme Pérez,significant person,Per,Per
+IJ,4,mrebel,Cosme Pérez,Juan Rana,significant person,Per,Per
+IJ,1,rebel,"Cosme Pérez, alias Juan Rana",Reyna nuestra señora,spouse  Francisca María Pérez  child,,
+IJ,2,rebel,Reyna nuestra señora,"Cosme Pérez, alias Juan Rana",spouse  Francisca María Pérez  child,,
+IJ,3,rebel,Francisca María Pérez,"Cosme Pérez, alias Juan Rana",father  Reyna nuestra señora  mother,,
+IK,1,mrebel,CM5,CM5,part of,Misc,Misc
+IK,1,rebel,CM5,CLIX,part of,,
+IK,2,rebel,CLIX,CM5,has part,,
+IL,1,mrebel,81,80,follows,Time,Time
+IL,1,rebel,Conde de Altamira,Reyna nuestra señora,located in the administrative territorial entity,,
+IL,2,rebel,Reyna nuestra señora,Conde de Altamira,contains administrative territorial entity,,
+IM,1,mrebel,El laberinto del mundo,Calderón,author,Concept,Per
+IM,2,mrebel,Calderón,El laberinto del mundo,notable work,Per,Concept
+IM,1,rebel,Felipe IV,Luisa Enríquez Manrique,spouse  María Teresa  child,,
+IM,2,rebel,Luisa Enríquez Manrique,Felipe IV,spouse,,
+IM,3,rebel,María Teresa,Felipe IV,father,,
+IN,1,mrebel,XXXVI,XXXVI,point in time,Time,Date
+IN,2,mrebel,XXXVI,XXXVI,point in time,Time,Date
+IN,3,mrebel,375,XXXVI,follows,Time,Time
+IN,1,rebel,Nuestra Señora del Rosario de Vicálvaro,Madrid,located in the administrative territorial entity  Madrid  located in the administrative territorial entity,,
+IO,1,mrebel,XXXVI,XXXVI,point in time,Time,Date
+IO,2,mrebel,XXXVI,XXXVI,point in time,Time,Date
+IO,3,mrebel,375,XXXVI,follows,Time,Time
+IO,1,rebel,Nuestra Señora de Agosto de Navalagamella,Madrid,located in the administrative territorial entity  Madrid  located in the administrative territorial entity,,
+IO,2,rebel,Nuestra Señora del Rosario de Vicálvaro,Madrid,located in the administrative territorial entity  Madrid  located in the administrative territorial entity,,
+IP,1,mrebel,Cosme Pérez para que haga la graciosidad,Cosme Pérez,author,Concept,Per
+IP,2,mrebel,Cofradía de Nuestra Señora del Rosario,Vicálvaro (Madrid),located in the administrative territorial entity,Concept,Loc
+IP,1,rebel,Cofradía de Nuestra Señora del Rosario de Vicálvaro,Madrid,located in the administrative territorial entity  Madrid  located in the administrative territorial entity,,
+IQ,1,mrebel,Cofradía de Nuestra Señora del Rosario,Vicálvaro,located in the administrative territorial entity,Concept,Loc
+IQ,1,rebel,Cofradía de Nuestra Señora del Rosario de Vicálvaro,Madrid,located in the administrative territorial entity,,
+IR,1,mrebel,Cofradía de Nuestra Señora del Rosario,Vicálvaro,located in the administrative territorial entity,Concept,Loc
+IR,2,mrebel,fiestas de Nuestra Señora de Septiembre,Cofradía de Nuestra Señora del Rosario,organizer,Time,Concept
+IR,1,rebel,Cofradía de Nuestra Señora del Rosario de Vicálvaro,Madrid,located in the administrative territorial entity,,
+IS,1,mrebel,Antonio de Solís,Eurídice y Orfeo,notable work,Per,Media
+IS,2,mrebel,Eurídice y Orfeo,Antonio de Solís,author,Media,Per
+IS,3,mrebel,Antonio de Solís,Eurídice y Orfeo,notable work,Per,Media
+IS,4,mrebel,Las amazonas,Antonio de Solís,author,Concept,Per
+IS,1,rebel,Eurídice y Orfeo,Antonio de Solís,author,,
+IT,1,rebel,1656,1656,point in time,,
+IU,1,rebel,1656,1656,point in time,,
+IV,1,mrebel,95,94,follows,Time,Time
+IV,2,mrebel,Un bobo hace ciento,Solís,author,Concept,Per
+IV,3,mrebel,Solís,Un bobo hace ciento,notable work,Per,Concept
+IV,1,rebel,Juan Rana,Bernarda Ramírez,spouse  Bernarda Ramírez  spouse,,
+IV,2,rebel,Bernarda Ramírez,Juan Rana,spouse  Juan Rana  spouse  Juan Rana  spouse,,
+IV,3,rebel,Juan Rana,Bernarda Ramírez,spouse  Bernarda Ramírez  spouse,,
+IW,1,mrebel,95,94,follows,Time,Time
+IW,2,mrebel,Un bobo hace ciento,Solís,author,Concept,Per
+IW,3,mrebel,Solís,Un bobo hace ciento,notable work,Per,Concept
+IW,1,rebel,Juan Rana,Bernarda Ramírez,spouse  Bernarda Ramírez  spouse,,
+IW,2,rebel,Bernarda Ramírez,Juan Rana,spouse  Juan Rana  spouse  Juan Rana  spouse,,
+IW,3,rebel,Juan Rana,Bernarda Ramírez,spouse  Bernarda Ramírez  spouse,,
+IX,1,mrebel,Un bobo hace ciento,Solís,author,Concept,Per
+IX,2,mrebel,Solís,Un bobo hace ciento,notable work,Per,Concept
+IX,3,mrebel,Juan Rana,Un bobo hace ciento,notable work,Per,Concept
+IX,4,mrebel,Juan Rana,Un bobo hace ciento,notable work,Per,Concept
+IX,5,mrebel,Juan Rana,Un bobo hace ciento,notable work,Per,Concept
+IX,6,mrebel,Juan Rana,Un bobo hace ciento,notable work,Per,Concept
+IX,7,mrebel,Juan Rana,Un bobo hace ciento,notable work,Per,Concept
+IX,8,mrebel,Juan Rana,Un bobo hace ciento,notable work,Per,Concept
+IX,9,mrebel,Juan Rana,Un bobo hace ciento,notable work,Per,Concept
+IX,10,mrebel,Juan Rana,Un bobo hace ciento,notable work,Per,Concept
+IX,11,mrebel,Juan Rana,Un bobo hace ciento,notable work,Per,Concept
+IX,12,mrebel,Juan Rana,Un bobo hace ciento,notable work,Per,Concept
+IX,13,mrebel,Juan Rana,Un bobo hace ciento,notable work,Per,Concept
+IX,14,mrebel,Juan Rana,Un bobo hace ciento,notable work,Per,Concept
+IX,15,mrebel,Juan Rana,Un bobo hace ciento,notable work,Per,Concept
+IX,16,mrebel,Juan Rana,Un bobo hace ciento,notable work,Per,Concept
+IX,17,mrebel,Juan Rana,Un bobo hace ciento,notable work,Per,Concept
+IX,18,mrebel,Juan Rana,Un bobo hace ciento,notable work,Per,Concept
+IX,19,mrebel,Juan Rana,Un bobo hace ciento,notable work,Per,Concept
+IX,20,mrebel,Juan Rana,Un bobo hace ciento,notable work,Per,Concept
+IX,21,mrebel,Juan Rana,Un bobo hace ciento,notable work,Per,Concept
+IX,22,mrebel,Juan Rana,Un bobo hace ciento,notable work,Per,Concept
+IX,23,mrebel,Juan Rana,Un bobo hace ciento,notable work,Per,Concept
+IX,24,mrebel,Juan Rana,Un bobo hace ciento,notable work,Per,Concept
+IX,25,mrebel,Juan Rana,Un bobo hace ciento,notable work,Per,Concept
+IX,26,mrebel,Juan Rana,Un bobo hace ciento,notable work,Per,Concept
+IX,1,rebel,Juan Rana,Bernarda Ramírez,spouse  Bernarda Ramírez  spouse,,
+IX,2,rebel,Bernarda Ramírez,Juan Rana,spouse  Juan Rana  spouse  Juan Rana  spouse,,
+IX,3,rebel,Juan Rana,Bernarda Ramírez,spouse  Bernarda Ramírez  spouse,,
+IX,4,rebel,Bernarda Ramírez,Juan Rana,spouse  Juan Rana  spouse  Juan Rana  spouse,,
+IX,5,rebel,Juan Rana,Bernarda Ramírez,spouse,,
+IY,1,mrebel,Sigüenza,Guadalajara,located in the administrative territorial entity,Loc,Loc
+IY,1,rebel,Señora Santa Librada de Sigüenza,Guadalajara,located in the administrative territorial entity,,
+IZ,1,rebel,Sigüenza,Guadalajara,located in the administrative territorial entity,,
+IZ,2,rebel,Guadalajara,Sigüenza,contains administrative territorial entity,,
+JA,1,rebel,Sigüenza,Guadalajara,located in the administrative territorial entity,,
+JA,2,rebel,Guadalajara,Sigüenza,contains administrative territorial entity,,
+JB,1,mrebel,La restauración de España,Jerónimo de Barrionuevo,discoverer or inventor,Concept,Per
+JB,1,rebel,Monteser,Solís,twinned administrative body,,
+JB,2,rebel,Solís,Monteser,twinned administrative body,,
+JC,1,mrebel,La restauración de España,Jerónimo de Barrionuevo,discoverer or inventor,Concept,Per
+JC,1,rebel,Monteser,Solís,twinned administrative body  Cáncer  twinned administrative body,,
+JC,2,rebel,Solís,Monteser,twinned administrative body  Cáncer  twinned administrative body,,
+JC,3,rebel,Cáncer,Monteser,twinned administrative body  Solís  twinned administrative body,,
+JD,1,mrebel,princesa de Mélito,don Diego de Silva,discoverer or inventor,Misc,Per
+JD,1,rebel,Juan Rana,ingenios selectos,occupation,,
+JE,1,rebel,La renegada de Valladolid,Biblioteca Nacional de Madrid,collection,,
+JF,1,rebel,La renegada de Valladolid,Biblioteca Nacional de Madrid,collection,,
+JG,1,mrebel,Juan Rana en el Prado con escribano y alguacil,Juan Vélez,author,Concept,Per
+JG,1,rebel,Prado,Madrid,located in the administrative territorial entity,,
+JH,1,mrebel,Pico y Canente,Luis de Ulloa y Pereira,author,Media,Per
+JH,2,mrebel,Luis de Ulloa y Pereira,Pico y Canente,notable work,Per,Media
+JH,3,mrebel,Antonio de Solís,Pico y Canente,notable work,Per,Media
+JH,1,rebel,María Teresa,Reina Mariana de Austria,mother,,
+JH,2,rebel,Reina Mariana de Austria,María Teresa,child,,
+JI,1,mrebel,Pico y Canente,Luis de Ulloa y Pereira,author,Org,Per
+JI,2,mrebel,Luis de Ulloa y Pereira,Pico y Canente,notable work,Per,Org
+JI,3,mrebel,Antonio de Solís,Pico y Canente,notable work,Per,Org
+JI,1,rebel,Salón del Palacio del Buen Retiro,Madrid,located in the administrative territorial entity,,
+JI,2,rebel,María Teresa,Reina Mariana de Austria,mother,,
+JI,3,rebel,Reina Mariana de Austria,María Teresa,child,,
+JJ,1,mrebel,Pico y Canente,Luis de Ulloa y Pereira,author,Media,Per
+JJ,2,mrebel,Luis de Ulloa y Pereira,Pico y Canente,notable work,Per,Media
+JJ,3,mrebel,Antonio de Solís,Pico y Canente,notable work,Per,Media
+JJ,1,rebel,María Teresa,Reina Mariana de Austria,mother,,
+JJ,2,rebel,Reina Mariana de Austria,María Teresa,child,,
+JK,1,mrebel,Luisa,Mariana Romero,sibling,Per,Per
+JK,2,mrebel,Mariana Romero,Luisa,sibling,Per,Per
+JK,1,rebel,Luisa Romero,Mariana Romero,sibling,,
+JK,2,rebel,Mariana Romero,Luisa Romero,sibling,,
+JL,1,rebel,Luisa,Mariana Romero,sibling,,
+JL,2,rebel,Mariana Romero,Luisa,sibling,,
+JM,1,rebel,Luisa,Mariana Romero,sibling,,
+JM,2,rebel,Mariana Romero,Luisa,sibling,,
+JN,1,rebel,1653,1653,point in time,,
+JO,1,mrebel,El golfo de las sirenas,Calderón,author,Media,Per
+JO,2,mrebel,Calderón,El golfo de las sirenas,notable work,Per,Media
+JO,1,rebel,Sus Majestades,Real Sitio de la Zarzuela,part of,,
+JO,2,rebel,Real Sitio de la Zarzuela,Sus Majestades,has part,,
+JP,1,mrebel,El golfo de las sirenas,Calderón,author,Media,Per
+JP,2,mrebel,Calderón,El golfo de las sirenas,notable work,Per,Media
+JP,1,rebel,Sus Majestades,Real Sitio de la Zarzuela,part of,,
+JP,2,rebel,Real Sitio de la Zarzuela,Sus Majestades,has part,,
+JQ,1,mrebel,El golfo de las sirenas,Calderón,author,Concept,Per
+JQ,2,mrebel,Calderón,El golfo de las sirenas,notable work,Per,Concept
+JQ,3,mrebel,Juan Rana en la Zarzuela,mojiganga,genre,Concept,Concept
+JQ,4,mrebel,Real Sitio de la Zarzuela,mojiganga,genre,Concept,Concept
+JQ,1,rebel,Sus Majestades,Real Sitio de la Zarzuela,part of,,
+JQ,2,rebel,Real Sitio de la Zarzuela,Sus Majestades,has part,,
+JR,1,rebel,Francisco García 'el Pupilo',compañías,instance of,,
+JR,2,rebel,Diego Osorio,compañías,instance of,,
+JS,1,rebel,Francisco García 'el Pupilo',compañías,instance of,,
+JS,2,rebel,Diego Osorio,compañías,instance of,,
+JT,1,rebel,Pradillos,Sebastián García de Prado,has part  José Antonio García de Prado  has part,,
+JT,2,rebel,Sebastián García de Prado,Pradillos,part of  José Antonio García de Prado  sibling,,
+JT,3,rebel,José Antonio García de Prado,Pradillos,part of  Sebastián García de Prado  sibling,,
+JU,1,rebel,Manuela,Ana,sibling  María  sibling,,
+JU,2,rebel,Ana,Manuela,sibling  María  sibling,,
+JU,3,rebel,María,Manuela,sibling  Ana  sibling,,
+JV,1,rebel,Felipe Próspero,príncipe,position held,,
+JW,1,rebel,Felipe Próspero,príncipe,position held,,
+JX,1,mrebel,Luisa Enríquez Manrique,condesa de Paredes de Nava,noble title,Per,Per
+JX,2,mrebel,Antonio de Solís,Triunfos de Amor y Fortuna,notable work,Per,Concept
+JX,3,mrebel,Triunfos de Amor y Fortuna,Antonio de Solís,author,Concept,Per
+JX,1,rebel,Felipe Próspero,príncipe,position held,,
+JY,1,mrebel,Juan Rana,Lobato,part of,Misc,Misc
+JY,2,mrebel,Juan Rana,Lobato,part of,Misc,Misc
+JY,3,mrebel,Antonio de Solís,Triunfos de Amor y Fortuna,notable work,Per,Media
+JY,4,mrebel,Triunfos de Amor y Fortuna,Antonio de Solís,author,Media,Per
+JY,1,rebel,Felipe Próspero,príncipe,position held,,
+JZ,1,mrebel,Triunfos de Amor y Fortuna,Coliseo del Retiro,location,Concept,Concept
+JZ,2,mrebel,Salta en banco,Cosme Pérez,performer,Concept,Per
+JZ,3,mrebel,El niño caballero,Cosme Pérez,performer,Concept,Per
+JZ,1,rebel,Felipe Próspero,príncipe,position held,,
+KA,1,mrebel,El niño caballero,Cosme Pérez,cast member,Media,Per
+KA,1,rebel,Salta en banco,Cosme Pérez,cast member  Bernarda Manuela  cast member  Luisa  cast member  Mariana Romero  cast member  María de Prado  cast member  María de Quiñones  cast member,,
+KA,2,rebel,Bernarda Ramírez,Bernarda Manuela,cast member  Luisa  cast member  Mariana Romero  cast member  María de Prado  cast member  María de Quiñones  cast member,,
+KB,1,mrebel,Bernarda Manuela,Cosme Pérez,spouse,Per,Per
+KB,2,mrebel,Cosme Pérez,Bernarda Manuela,spouse,Per,Per
+KB,1,rebel,Juan Rana,"El niño caballero, de Solís",present in work,,
+KB,2,rebel,Juan Rana,"El niño caballero, de Solís",present in work,,
+KB,3,rebel,Juan Rana,"El niño caballero, de Solís",present in work,,
+KC,1,mrebel,calle de Cantarranas,Madrid,located in the administrative territorial entity,Loc,Loc
+KC,2,mrebel,Francisco Gutiérrez,Luis López Sustaete,relative,Per,Per
+KC,3,mrebel,Luis López Sustaete,Francisco Gutiérrez,relative,Per,Per
+KC,1,rebel,Madrid,Cantarranas,contains administrative territorial entity,,
+KC,2,rebel,Cantarranas,Madrid,located in the administrative territorial entity,,
+KD,1,mrebel,calle de Cantarranas,Madrid,located in the administrative territorial entity,Loc,Loc
+KD,2,mrebel,Francisco Gutiérrez,Luis López Sustaete,relative,Per,Per
+KD,3,mrebel,Luis López Sustaete,Francisco Gutiérrez,relative,Per,Per
+KD,1,rebel,Madrid,Cantarranas,contains administrative territorial entity,,
+KD,2,rebel,Cantarranas,Madrid,located in the administrative territorial entity,,
+KE,1,mrebel,calle de Cantarranas,Madrid,located in the administrative territorial entity,Loc,Loc
+KE,1,rebel,Madrid,Cantarranas,contains administrative territorial entity,,
+KE,2,rebel,Cantarranas,Madrid,located in the administrative territorial entity,,
+KF,1,mrebel,calle de Cantarranas,Madrid,located in the administrative territorial entity,Loc,Loc
+KF,1,rebel,Madrid,Cantarranas,contains administrative territorial entity,,
+KF,2,rebel,Cantarranas,Madrid,located in the administrative territorial entity,,
+KG,1,rebel,Luis López Sustaete,Salamanca,place of death,,
+KH,1,rebel,Luis López Sustaete,Madrid,place of death,,
+KI,1,rebel,Luis López Sustaete,Madrid,work location,,
+KJ,1,rebel,Juan Navarro Oliver,Madrid,work location,,
+KJ,2,rebel,Antonio de Rueda,Madrid,work location,,
+KK,1,rebel,Luis López Sustaete,Madrid,work location,,
+KL,1,rebel,Felipe Próspero,1657,date of birth,,
+KM,1,mrebel,Felipe Próspero,28 de noviembre de 1657,date of birth,Per,Date
+KM,1,rebel,Felipe Próspero,Madrid,place of birth,,
+KN,1,mrebel,Felipe Próspero,28 de noviembre de 1657,date of birth,Per,Date
+KN,1,rebel,Felipe Próspero,Madrid,place of birth,,
+KO,1,mrebel,Felipe Próspero,28 de noviembre de 1657,date of birth,Per,Date
+KO,1,rebel,Felipe Próspero,1657,date of birth,,
+KP,1,mrebel,Felipe Próspero,28 de noviembre de 1657,date of birth,Per,Date
+KP,1,rebel,Felipe Próspero,1657,date of birth,,
+KQ,1,mrebel,CLXI,Cotarelo,discoverer or inventor,Dis,Per
+KQ,2,mrebel,1658,1657,follows,Time,Time
+KQ,1,rebel,El baile perdido,Antonio de Solís,author,,
+KQ,2,rebel,Antonio de Solís,El baile perdido,notable work,,
+KR,1,mrebel,El toreador,Calderón,author,Concept,Per
+KR,2,mrebel,Calderón,El toreador,notable work,Per,Concept
+KR,1,rebel,Juan Rana,1658,date of birth,,
+KS,1,mrebel,El toreador,Calderón,author,Concept,Per
+KS,2,mrebel,Calderón,El toreador,notable work,Per,Concept
+KS,1,rebel,Juan Rana,1658,date of birth,,
+KT,1,mrebel,El toreador,Calderón,author,Concept,Per
+KT,2,mrebel,Calderón,El toreador,notable work,Per,Concept
+KT,1,rebel,Juan Rana,1658,date of birth,,
+KU,1,mrebel,El baile perdido,Antonio de Solís,discoverer or inventor,Concept,Per
+KU,2,mrebel,El toreador,Calderón,author,Concept,Per
+KU,3,mrebel,Calderón,El toreador,notable work,Per,Concept
+KU,1,rebel,Carlos II,príncipe,position held,,
+KV,1,mrebel,El toreador,Calderón,author,Concept,Per
+KV,2,mrebel,Calderón,El toreador,notable work,Per,Concept
+KV,1,rebel,Carlos,Carlos II,child,,
+KV,2,rebel,Carlos II,Carlos,father,,
+KW,1,mrebel,El toreador,Calderón,author,Concept,Per
+KW,2,mrebel,Calderón,El toreador,notable work,Per,Concept
+KW,1,rebel,Carlos II,príncipe,position held,,
+KX,1,mrebel,El toreador,Calderón,author,Concept,Per
+KX,2,mrebel,Calderón,El toreador,notable work,Per,Concept
+KX,1,rebel,Juan Rana,1658,date of birth,,
+KX,2,rebel,Juan Rana,1658,date of birth,,
+KY,1,mrebel,El toreador,Calderón,author,Concept,Per
+KY,2,mrebel,Calderón,El toreador,notable work,Per,Concept
+KY,1,rebel,Felipe IV,Carlos II,child,,
+KY,2,rebel,Carlos II,Felipe IV,father,,
+KZ,1,mrebel,El toreador,Calderón,author,Concept,Per
+KZ,2,mrebel,Calderón,El toreador,notable work,Per,Concept
+KZ,1,rebel,Carlos II,Felipe IV,sibling,,
+KZ,2,rebel,Felipe IV,Carlos II,sibling,,
+LA,1,mrebel,Catalina Ramos,CM5,significant event,Per,Misc
+LA,2,mrebel,Juan Ramos,Catalina Ramos,child,Per,Per
+LA,3,mrebel,CM5,Catalina Ramos,significant person,Misc,Per
+LA,4,mrebel,CLX,Catalina Ramos,significant person,Misc,Per
+LA,1,rebel,Felipe IV,rey,position held,,
+LB,1,mrebel,Catalina Ramos,Cosme Pérez,relative,Per,Per
+LB,2,mrebel,Juan Ramos,Catalina Ramos,child,Per,Per
+LB,3,mrebel,Cosme Pérez,Catalina Ramos,relative,Per,Per
+LB,1,rebel,Felipe IV,rey,position held,,
+LC,1,mrebel,CM5,Cotarelo,discoverer or inventor,Misc,Per
+LC,2,mrebel,CLX,Cotarelo,discoverer or inventor,Misc,Per
+LC,1,rebel,Felipe IV,rey,position held,,
+LD,1,mrebel,CM5,Cantarranas,located in the administrative territorial entity,Misc,Loc
+LD,2,mrebel,CLX,Cantarranas,located in the administrative territorial entity,Misc,Loc
+LD,1,rebel,Catalina Ramos,1 de septiembre,date of death,,
+LE,1,mrebel,Cosme Pérez,Francisca María Pérez,child,Per,Per
+LE,1,rebel,Cosme Pérez,Francisca María Pérez,child,,
+LE,2,rebel,Francisca María Pérez,Cosme Pérez,father,,
+LF,1,mrebel,iglesia de San Sebastián,madrileña,located in the administrative territorial entity,Loc,Loc
+LF,1,rebel,Cofradía de Nuestra Señora de la Novena,Madrid,located in the administrative territorial entity,,
+LG,1,mrebel,calle de Cantarranas,Parroquia de San Sebastián,located in the administrative territorial entity,Loc,Loc
+LG,1,rebel,Cantarranas,Madrid,located in the administrative territorial entity,,
+LG,2,rebel,Madrid,Cantarranas,contains administrative territorial entity,,
+LH,1,mrebel,Convento de la Santísima Trinidad,Madrid,located in the administrative territorial entity,Loc,Loc
+LH,1,rebel,Cosme Pérez,Convento de la Santísima Trinidad de Madrid,place of burial,,
+LH,2,rebel,Cosme Pérez,Convento de la Santísima Trinidad de Madrid,place of burial,,
+LI,1,mrebel,Convento de la Santísima Trinidad,Madrid,located in the administrative territorial entity,Loc,Loc
+LI,2,mrebel,Francisca María Pérez,Convento de la Santísima Trinidad,place of burial,Per,Loc
+LI,1,rebel,Cosme Pérez,Convento de la Santísima Trinidad de Madrid,place of burial,,
+LI,2,rebel,Cosme Pérez,Convento de la Santísima Trinidad de Madrid,place of burial,,
+LJ,1,mrebel,Convento de la Santísima Trinidad,Madrid,located in the administrative territorial entity,Loc,Loc
+LJ,1,rebel,María de Diego,Francisco de Diego,sibling,,
+LJ,2,rebel,Francisco de Diego,María de Diego,sibling,,
+LK,1,mrebel,Convento de la Santísima Trinidad,Madrid,located in the administrative territorial entity,Loc,Loc
+LK,1,rebel,Convento de la Santísima Trinidad de Madrid,Tudela de Duero,located in the administrative territorial entity,,
+LL,1,rebel,Nuestra Señora del Amparo,Tudela de Duero,located in the administrative territorial entity  Tudela de Duero  located in the administrative territorial entity,,
+LM,1,rebel,Nuestra Señora del Amparo,Tudela de Duero,located in the administrative territorial entity  Tudela de Duero  located in the administrative territorial entity,,
+LN,1,rebel,Nuestra Señora del Amparo,Tudela de Duero,located in the administrative territorial entity,,
+LO,1,rebel,Nuestra Señora del Amparo,Tudela de Duero,located in the administrative territorial entity,,
+LP,1,rebel,Nuestra Señora del Amparo,Tudela de Duero,located in the administrative territorial entity,,
+LQ,1,mrebel,iglesia parroquial de Tudela,Duero,located in the administrative territorial entity,Loc,Loc
+LQ,1,rebel,Nuestra Señora del Amparo,iglesia parroquial de Tudela de Duero,part of,,
+LQ,2,rebel,iglesia parroquial de Tudela de Duero,Nuestra Señora del Amparo,has part,,
+LR,1,mrebel,Cosme Pérez,Tudela del Duero,place of birth,Per,Loc
+LR,2,mrebel,Cosme Pérez,Tudela del Duero,place of birth,Per,Loc
+LR,1,rebel,Cofradía de Nuestra Señora de la Novena,Palacio,located in the administrative territorial entity  Palacio  located in the administrative territorial entity,,
+LS,1,mrebel,Cosme Pérez,Tudela del Duero,residence,Per,Loc
+LS,2,mrebel,Cosme Pérez,Tudela del Duero,residence,Per,Loc
+LS,3,mrebel,Cosme Pérez,Tudela del Duero,residence,Per,Loc
+LS,4,mrebel,Cosme Pérez,Tudela del Duero,residence,Per,Loc
+LS,5,mrebel,Cosme Pérez,Tudela del Duero,residence,Per,Loc
+LS,6,mrebel,Cosme Pérez,Tudela del Duero,residence,Per,Loc
+LS,7,mrebel,Cosme Pérez,Tudela del Duero,residence,Per,Loc
+LS,8,mrebel,Cosme Pérez,Tudela del Duero,residence,Per,Loc
+LS,9,mrebel,Cosme Pérez,Tudela del Duero,residence,Per,Loc
+LS,10,mrebel,Cosme Pérez,Tudela del Duero,residence,Per,Loc
+LS,11,mrebel,Cosme Pérez,Tudela del Duero,residence,Per,Loc
+LS,12,mrebel,Cosme Pérez,Tudela del Duero,residence,Per,Loc
+LS,13,mrebel,Cosme Pérez,Tudela del Duero,residence,Per,Loc
+LS,14,mrebel,Cosme Pérez,Tudela del Duero,residence,Per,Loc
+LS,15,mrebel,Cosme Pérez,Tudela del Duero,residence,Per,Loc
+LS,16,mrebel,Cosme Pérez,Tudela del Duero,residence,Per,Loc
+LS,17,mrebel,Cosme Pérez,Tudela del Duero,residence,Per,Loc
+LS,18,mrebel,Cosme Pérez,Tudela del Duero,residence,Per,Loc
+LS,19,mrebel,Cosme Pérez,Tudela del Duero,residence,Per,Loc
+LS,20,mrebel,Cosme Pérez,Tudela del Duero,residence,Per,Loc
+LS,21,mrebel,Cosme Pérez,Tudela del Duero,residence,Per,Loc
+LS,22,mrebel,Cosme Pérez,Tudela del Duero,residence,Per,Loc
+LS,23,mrebel,Cosme Pérez,Tudela del Duero,residence,Per,Loc
+LS,1,rebel,Cofradía de Nuestra Señora de la Novena,Palacio,located in the administrative territorial entity  Palacio  located in the administrative territorial entity,,
+LS,2,rebel,Palacio,Cofradía de Nuestra Señora de la Novena,owner of  Cofradía de Nuestra Señora de la Novena  owner of,,
+LS,3,rebel,Palacio,Cofradía de Nuestra Señora de la Novena,owner of  Cofradía de Nuestra Se,,
+LT,1,mrebel,Cosme Pérez,Tudela del Duero,place of birth,Per,Loc
+LT,2,mrebel,Cosme Pérez,Tudela del Duero,place of birth,Per,Loc
+LT,3,mrebel,Cosme Pérez,Tudela del Duero,place of birth,Per,Loc
+LT,1,rebel,Tudela del Duero,Granja,located in the administrative territorial entity,,
+LU,1,mrebel,Cosme Pérez,Tudela del Duero,place of birth,Per,Loc
+LU,2,mrebel,Cosme Pérez,Tudela del Duero,place of birth,Per,Loc
+LU,3,mrebel,Cosme Pérez,Tudela del Duero,place of birth,Per,Loc
+LU,1,rebel,Tudela del Duero,Granja,located in the administrative territorial entity,,
+LV,1,mrebel,Cosme Pérez,Cofradía de Nuestra Señora de la Novena,part of,Misc,Concept
+LV,1,rebel,Cofradía de Nuestra Señora de la Novena,Reina,owned by,,
+LW,1,rebel,Reina para la Cofradía de Nuestra Señora de la Novena,Reina para la Cofradía de Nuestra Señora de la Novena,different from,,
+LW,2,rebel,Reina para la Cofradía de Nuestra Señora de la Novena,Reina para la Cofradía de Nuestra Señora de la Novena,different from,,
+LX,1,mrebel,calle de Cantarranas,Parroquia de San Sebastián,located in the administrative territorial entity,Loc,Loc
+LX,2,mrebel,Parroquia de San Sebastián,Madrid,located in the administrative territorial entity,Loc,Loc
+LX,1,rebel,Santísima Trinidad desta Corte,Madrid,located in the administrative territorial entity,,
+LY,1,mrebel,calle de Cantarranas,Parroquia de San Sebastián,located in the administrative territorial entity,Loc,Loc
+LY,2,mrebel,Parroquia de San Sebastián,Madrid,located in the administrative territorial entity,Loc,Loc
+LY,1,rebel,Cofradía de Nuestra Señora de la Novena,Madrid,located in the administrative territorial entity,,
+LZ,1,mrebel,calle de Cantarranas,Parroquia de San Sebastián,located in the administrative territorial entity,Loc,Loc
+LZ,2,mrebel,Parroquia de San Sebastián,Madrid,located in the administrative territorial entity,Loc,Loc
+LZ,1,rebel,Madrid,Cantarranas,contains administrative territorial entity,,
+LZ,2,rebel,Cantarranas,Madrid,located in the administrative territorial entity,,
+MA,1,mrebel,calle de Cantarranas,Parroquia de San Sebastián,located in the administrative territorial entity,Loc,Loc
+MA,2,mrebel,Parroquia de San Sebastián,Madrid,located in the administrative territorial entity,Loc,Loc
+MA,1,rebel,Cantarranas,Parroquia de San Sebastián,located in the administrative territorial entity,,
+MA,2,rebel,Parroquia de San Sebastián,Cantarranas,contains administrative territorial entity,,
+MB,1,mrebel,calle de Cantarranas,Parroquia de San Sebastián,located in the administrative territorial entity,Loc,Loc
+MB,2,mrebel,Parroquia de San Sebastián,Madrid,located in the administrative territorial entity,Loc,Loc
+MB,1,rebel,Cantarranas,Parroquia de San Sebastián,located in the administrative territorial entity,,
+MB,2,rebel,Parroquia de San Sebastián,Cantarranas,contains administrative territorial entity,,
+MC,1,mrebel,María de Diego,Francisco de Diego,sibling,Per,Per
+MC,2,mrebel,Francisco de Diego,María de Diego,sibling,Per,Per
+MC,1,rebel,María de Diego,Francisco de Diego,sibling,,
+MC,2,rebel,Francisco de Diego,María de Diego,sibling,,
+MD,1,mrebel,María de Diego,Francisco de Diego,sibling,Per,Per
+MD,2,mrebel,Francisco de Diego,María de Diego,sibling,Per,Per
+MD,1,rebel,María de Diego,Francisco de Diego,sibling,,
+MD,2,rebel,Francisco de Diego,María de Diego,sibling,,
+ME,1,mrebel,iglesia parroquial,Tudela del Duero,located in the administrative territorial entity,Loc,Loc
+ME,1,rebel,María de Diego,Francisco de Diego,sibling,,
+ME,2,rebel,Francisco de Diego,María de Diego,sibling,,
+MF,1,mrebel,iglesia parroquial,Tudela del Duero,located in the administrative territorial entity,Loc,Loc
+MF,1,rebel,Nuestra Señora del Amparo,Tudela del Duero,located in the administrative territorial entity,,
+MG,1,mrebel,iglesia parroquial,Tudela del Duero,located in the administrative territorial entity,Loc,Loc
+MG,1,rebel,Nuestra Señora del Amparo,Tudela del Duero,located in the administrative territorial entity,,
+MH,1,mrebel,iglesia parroquial,Tudela del Duero,located in the administrative territorial entity,Loc,Loc
+MH,1,rebel,Nuestra Señora del Amparo,Tudela del Duero,located in the administrative territorial entity,,
+MI,1,mrebel,Hércules o Fieras afemina amor,Pedro Calderón de la Barca,author,Concept,Per
+MI,2,mrebel,Pedro Calderón de la Barca,Hércules o Fieras afemina amor,notable work,Per,Concept
+MI,1,rebel,Salón Dorado del Buen Retiro,Astillano,located in the administrative territorial entity,,
+MJ,1,mrebel,Hércules o Fieras afemina amor,Pedro Calderón de la Barca,author,Concept,Per
+MJ,2,mrebel,Pedro Calderón de la Barca,Hércules o Fieras afemina amor,notable work,Per,Concept
+MJ,1,rebel,Salón Dorado del Buen Retiro,Astillano,located in the administrative territorial entity,,
+MK,1,mrebel,Hércules o Fieras afemina amor,Pedro Calderón de la Barca,author,Concept,Per
+MK,2,mrebel,Pedro Calderón de la Barca,Hércules o Fieras afemina amor,notable work,Per,Concept
+MK,1,rebel,Salón Dorado del Buen Retiro,Astillano,located in the administrative territorial entity,,
+ML,1,mrebel,Hércules o Fieras afemina amor,Pedro Calderón de la Barca,author,Concept,Per
+ML,2,mrebel,Pedro Calderón de la Barca,Hércules o Fieras afemina amor,notable work,Per,Concept
+ML,1,rebel,Salón Dorado del Buen Retiro,Astillano,located in the administrative territorial entity,,
+MM,1,mrebel,Hércules o Fieras afemina amor,Pedro Calderón de la Barca,author,Concept,Per
+MM,2,mrebel,Pedro Calderón de la Barca,Hércules o Fieras afemina amor,notable work,Per,Concept
+MM,1,rebel,Salón Dorado del Buen Retiro,Astillano,located in the administrative territorial entity,,
+MN,1,mrebel,Hércules o Fieras afemina amor,Pedro Calderón de la Barca,author,Concept,Per
+MN,2,mrebel,Fieras afemina amor,Calderón de la Barca,author,Concept,Per
+MN,3,mrebel,Calderón de la Barca,Hércules o Fieras afemina amor,notable work,Per,Concept
+MN,1,rebel,El triunfo de Juan Rana,Salón Dorado del Buen Retiro,location  Salón Dorado del Buen Retiro  location,,
+MO,1,mrebel,Hércules o Fieras afemina amor,Pedro Calderón de la Barca,author,Concept,Per
+MO,2,mrebel,Fieras afemina amor,Calderón de la Barca,author,Concept,Per
+MO,3,mrebel,Calderón de la Barca,Hércules o Fieras afemina amor,notable work,Per,Concept
+MO,1,rebel,El triunfo de Juan Rana,Salón Dorado del Buen Retiro,location  Salón Dorado del Buen Retiro  location,,
+MP,1,mrebel,Hércules o Fieras afemina amor,Pedro Calderón de la Barca,author,Concept,Per
+MP,2,mrebel,Pedro Calderón de la Barca,Hércules o Fieras afemina amor,notable work,Per,Concept
+MP,3,mrebel,El triunfo de Juan Rana,Cosme Pérez,author,Concept,Per
+MP,4,mrebel,Fieras afemina amor,Calderón de la Barca,author,Concept,Per
+MP,5,mrebel,Calderón de la Barca,Fieras afemina amor,notable work,Per,Concept
+MP,1,rebel,Salón Dorado del Buen Retiro,costa del Príncipe de Astillano,located in the administrative territorial entity,,
+MQ,1,mrebel,Fieras afemina amor,Calderón de la Barca,author,Concept,Per
+MQ,2,mrebel,Calderón de la Barca,Fieras afemina amor,notable work,Per,Concept
+MQ,1,rebel,Salón Dorado del Buen Retiro,Calderón de la Barca,located in the administrative territorial entity,,
+MR,1,mrebel,Sebastiana [Fernández],Micaela [Fernández],sibling,Per,Per
+MR,2,mrebel,Micaela [Fernández],Sebastiana [Fernández],sibling,Per,Per
+MR,3,mrebel,Manuela [de] Escamilla,Sebastiana [Fernández],sibling,Per,Per
+MR,4,mrebel,Mariana [de] Borja,Sebastiana [Fernández,sibling,Per,Per
+MR,5,mrebel,Bernarda Manuela,Bernarda 'la Grifona',sibling,Per,Per
+MR,6,mrebel,Manuela de Bustamante,Jacinta,sibling,Per,Per
+MR,7,mrebel,Jacinta,Cosme Pérez,sibling,Per,Per
+MR,1,rebel,Cosme Pérez,20 de abril,date of death,,
+MS,1,rebel,Convento de Trinitarios de Madrid,Madrid,located in the administrative territorial entity,,
+MT,1,rebel,Convento de Trinitarios de Madrid,Madrid,located in the administrative territorial entity,,
+MU,1,mrebel,Carta de Difuntos de la Cofradía de Nuestra Señora de la Novena,Madrid,located in the administrative territorial entity,Concept,Loc
+MU,1,rebel,Cofradía de Nuestra Señora de la Novena,Madrid,located in the administrative territorial entity,,
